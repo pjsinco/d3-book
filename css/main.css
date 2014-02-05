@@ -4,3 +4,12 @@ svg .pumpkin {
   stroke-width: 3;
 }
 
+.bar {
+  color: #ffffff;
+  background-color: teal;
+  width: 20px;
+  height: 75px;
+  margin-right: 10px;
+  display: inline-block;
+}
+

@@ -14,11 +14,9 @@
   var barPadding = 1;
 
   var rand = [];
-
   for (var i = 0; i < 25; i ++) {
     rand.push(getRandomArbitrary(1, 25));    
   }
-  
 
   var svg = d3.select('body').append('svg')
     .attr('height', h)
@@ -36,20 +34,40 @@
 //      });
 
   svg.selectAll('rect')
-    .data(dataset)
+    .data(rand)
     .enter().append('rect')
       .attr('x', function (d, i) {
-        return i * (w / dataset.length);
+        return i * (w / rand.length);
       })
       .attr('y', function(d) {
-        return h - d;
+        return h - (d * 4);
       })
       .attr('height', function (d) {
         return d * 4;
       })
-      .attr('width', (w / dataset.length) - barPadding);
+      .attr('width', (w / rand.length) - barPadding)
+      .attr('fill', function(d) {
+        return 'rgba(0, 0, ' + (255 - (d * 10)) + ', 1.0)';
+      });
   
-      
+
+  svg.selectAll('text')
+    .data(rand)
+    .enter().append('text')
+      .text(function(d) {
+        return d;
+      })
+      .attr('fill', '#cccccc')
+      .attr('font-family', 'sans-serif')
+      .attr('font-size', 11)
+      .attr('text-anchor', 'middle')
+      .attr('x', function(d, i) {
+        return i * (w / rand.length) 
+          + ((w / rand.length - barPadding) / 2);
+      })
+      .attr('y', function (d) {
+        return h - (d * 4) + 14;
+      });
 
 //  d3.select('body')
 //    .selectAll('div')

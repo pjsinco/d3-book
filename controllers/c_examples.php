@@ -5,10 +5,11 @@ class examples_controller extends base_controller {
   	parent::__construct();
   } 
   	
-  public function chapter($chapter) {	
+  public function chapter($chapter, $example = 0) {	
     $this->template->content =
       //View::instance('v_example_index');
-      View::instance('v_examples_chapter_' . $chapter);
+      View::instance('v_examples_chapter_' . $chapter
+        . '_' . $example);
   
     $client_files_head = Array(
       'http://d3js.org/d3.v3.min.js',
@@ -20,7 +21,7 @@ class examples_controller extends base_controller {
 
     $client_files_body = Array(
       '/js/jquery-1.9.1.js',
-      '/js/examples_chapter_' . $chapter . '.js'
+      '/js/examples_chapter_' . $chapter . '_' . $example . '.js'
     );
     $this->template->client_files_body =
       Utils::load_client_files($client_files_body);
@@ -30,8 +31,5 @@ class examples_controller extends base_controller {
 
   }
 		
-
-
-
 } // eoc
 ?>

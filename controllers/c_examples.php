@@ -12,7 +12,8 @@ class examples_controller extends base_controller {
         . '_' . $example);
   
     $client_files_head = Array(
-      'http://d3js.org/d3.v3.min.js',
+      //'http://d3js.org/d3.v3.min.js',
+      '/misc/d3-book-master/d3/d3.v3.js',
       '/js/modernizr.custom.97318.js',
       '/css/main.css'
     );

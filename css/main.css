@@ -25,3 +25,11 @@ div.lab {
   /*height: 30px;*/
   /*width: 0px;*/
 }
+
+.axis path, .axis line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+

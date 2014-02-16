@@ -31,14 +31,6 @@
 
   dataset = getRandomDataSet(1000);
   
-//  var xRange = Math.random() * 1000;
-//  var yRange = Math.random() * 1000;
-//  for (var i = 0; i < numDataPoints; i++) {
-//    var newNumber1 = Math.floor(Math.random() * xRange);
-//    var newNumber2 = Math.floor(Math.random() * yRange);
-//    dataset.push([newNumber1, newNumber2]);
-//  };
-
   //Create scale functions
   var xScale = d3.scale.linear()
     .domain([0, d3.max(dataset, function(d) { return d[0]; })])
@@ -76,6 +68,15 @@
       .attr("width", w)
       .attr("height", h);
 
+  svg.append('clipPath')
+    .attr('id', 'chart_area')
+    .append('rect')
+      .attr('x', padding)
+      .attr('y', padding)
+      .attr('height', h - padding * 2)
+      .attr('width', w - padding * 3)
+    
+    
   svg.append('g')
     .attr('class', 'x axis')
     .attr('transform', 'translate(0, ' + (h - padding) + ')')
@@ -85,8 +86,12 @@
     .attr('class', 'y axis')
     .attr('transform', 'translate(' + padding + ', 0)')
     .call(yAxis);
-    
-  svg.selectAll("circle")
+
+  var circles = svg.append('g')
+    .attr('id', 'circles')
+    .attr('clip-path', 'url(#chart_area)');
+
+  circles.selectAll("circle")
     .data(dataset)
     .enter()
       .append("circle")

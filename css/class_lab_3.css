@@ -1,0 +1,29 @@
+body{
+  background-color: white;
+  margin-left: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14pt;
+  height: 1000px;
+}
+
+svg circle{
+  fill:steelblue;
+  stroke: none;
+}
+.y.axis line {
+  stroke:darkgrey;
+  opacity: .5;
+}
+
+.y.axis path {
+  display: none;
+}
+.x.axis path {
+   fill:none;
+   stroke:darkgrey;
+ }
+
+.bar{
+  fill:steelblue;
+}
+

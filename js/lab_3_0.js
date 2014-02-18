@@ -6,6 +6,7 @@
   var w = 600;
   var h = 400;
   var padding = 20;
+  var isLogScale = false;
 
   var svg = d3.select('#vis')
     .append('svg')
@@ -39,7 +40,6 @@
       return swapX();
     });
 
-
   var updateData = function() {
     console.log('updateData called');
     var dataSize = Math.random() * 50 + 50;
@@ -55,16 +55,37 @@
   updateData();
 
   var yScale = d3.scale.linear()
-    .domain([0, d3.max(data, function(d) {
+    .domain([1, d3.max(data, function(d) {
       return d.value;
     })])
-    .range([h, 0]);
+    .range([h, padding * 2]);
 
   var xScale = d3.scale.linear()
     .domain([0, d3.max(data, function(d) {
       return d.pos
     })])
-    .range([0, w]);
+    .range([padding * 2, w]);
+
+  var xAxis = d3.svg.axis()
+    .scale(xScale)
+    .orient('bottom')
+    .tickSize(-3)
+
+  var yAxis = d3.svg.axis()
+    .scale(yScale)
+    .orient('left')
+    .tickSize(-600)
+
+  //var yAxis = 
+  svg.append('g')
+    .attr('class', 'x axis')
+    .attr('transform', 'translate(0, ' + (h - padding) + ')')
+    .call(xAxis);
+
+  svg.append('g')
+    .attr('class', 'y axis')
+    .attr('transform', 'translate(' + (padding * 2) + ', 0)')
+    .call(yAxis)
 
   var dataPoints = svg.selectAll('circle')
     .data(data)
@@ -84,5 +105,29 @@
       .on('mouseout', function(d) {
         return textField.text('---'); 
       })
+
+
+  var changeScale = function() {
+    if (!isLogScale) {
+      yScale = d3.scale.log()
+        .domain([1, d3.max(data, function(d) {
+          return d.value;
+        })])
+        .range([h, padding * 2]);
+      isLogScale = true;
+    } else {
+      yScale = d3.scale.linear()
+        .domain([1, d3.max(data, function(d) {
+          return d.value;
+        })])
+        .range([h, padding * 2]);
+      isLogScale = false;
+    }
+
+    yAxis.scale(yScale);
+    d3.select('.y.axis')
+      .call(yAxis)
+  }
+
   
 })();

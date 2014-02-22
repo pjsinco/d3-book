@@ -66,6 +66,12 @@
     })])
     .range([padding * 2, w]);
 
+  var colorScale = d3.scale.linear()
+    .domain([1, d3.max(data, function(d) {
+      return d.value;
+    })])
+    .range(['blue', 'red']); 
+
   var xAxis = d3.svg.axis()
     .scale(xScale)
     .orient('bottom')
@@ -76,7 +82,6 @@
     .orient('left')
     .tickSize(-600)
 
-  //var yAxis = 
   svg.append('g')
     .attr('class', 'x axis')
     .attr('transform', 'translate(0, ' + (h - padding) + ')')
@@ -105,6 +110,10 @@
       .on('mouseout', function(d) {
         return textField.text('---'); 
       })
+      .style('fill', function(d) {
+        //console.log(colorScale(d.value));
+        return colorScale(d.value);
+      })
 
 
   var changeScale = function() {
@@ -126,8 +135,18 @@
 
     yAxis.scale(yScale);
     d3.select('.y.axis')
+      .transition()
       .call(yAxis)
-  }
+
+    // make the points change scale too
+    // 
+    d3.selectAll('.datapoints')
+      .transition()
+        .attr('cy', function(d) {
+          return yScale(d.value); // will fit to whatever yScale is
+        })
+      
+  } // end changeScale()
 
   
 })();

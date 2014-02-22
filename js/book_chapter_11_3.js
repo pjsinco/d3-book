@@ -1,6 +1,8 @@
-//(function() {
-  var w = 500;
+(function() {
+
+  console.log('hi');
   var h = 300;
+  var w = 500;
   
   var dataset = 
   {
@@ -39,37 +41,28 @@
     .nodes(dataset.nodes)
     .links(dataset.edges)
     .size([w, h])
-    .linkDistance([50])
-    .charge([-100])
     .start();
 
-  var colors = d3.scale.category10();
-
-  // create svg element
   var svg = d3.select('body')
     .append('svg')
     .attr('height', h)
     .attr('width', w)
-    
-  // create edges as lines
-  var edges = svg.selectAll('line')
-    .data(dataset.edges)
-    .enter()
-      .append('line')
-      .style('stroke', '#ccc')
-      .style('stroke-width', '3px');
-
-  // create nodes as circles
+  
   var nodes = svg.selectAll('circle')
     .data(dataset.nodes)
     .enter()
       .append('circle')
       .attr('r', 10)
-      .style('fill', function(d, i) {
-        return colors(i);        
-      })
+      .style('fill', 'blue')
       .call(force.drag);
 
+  var edges = svg.selectAll('line')
+    .data(dataset.edges)
+    .enter()
+      .append('line')
+      .style('stroke', '#ccc')
+      .style('stroke-width', 1);
+  
   // every time the sim 'ticks', this will be called
   force.on('tick', function() {
     edges.attr('x1', function(d) {
@@ -93,4 +86,4 @@
     })
   })
 
-//})();
+})();

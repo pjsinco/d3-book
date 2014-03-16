@@ -19,7 +19,7 @@ var svg = d3.select('body').append('svg')
 // define map projection
 var projection = d3.geo.albersUsa()
   .translate([width / 2, height / 2])
-  .scale(500)
+  .scale([500])
 
 // define path generator
 var path = d3.geo.path()
@@ -79,6 +79,29 @@ d3.csv('/js/data/us-ag-productivity-2004.csv', function(data) {
             return '#ccc';
           }
         })
+
+    // load in cities data
+    d3.csv('/js/data/us-cities.csv', function(data) {
+      svg
+        .selectAll('circle')
+        .data(data)
+        .enter()
+          .append('circle')
+          .attr('cx', function(d) {
+            return projection([parseFloat(d.lon), 
+              parseFloat(d.lat)])[0];
+          })
+          .attr('cy', function(d) {
+            return projection([parseFloat(d.lon), 
+              parseFloat(d.lat)])[1];
+          })
+          .attr('r', function(d) {
+            return Math.sqrt(parseInt(d.population) * 0.00004);
+          })
+          .style('fill', 'gold')
+          .style('opacity', '0.5')
+        
+    }); //end d3.csv() city-pop-abbrd.csv
 
   }); // end d3.json()
 

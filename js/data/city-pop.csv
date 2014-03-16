@@ -1,716 +1,716 @@
-rank,place,state,population
-1,New York,New York,"8,175,133"
-2,Los Angeles,California,"3,792,621"
-3,Chicago,Illinois,"2,695,598"
-4,Houston,Texas,"2,099,451"
-5,Philadelphia,Pennsylvania,"1,526,006"
-6,Phoenix,Arizona,"1,445,632"
-7,San Antonio,Texas,"1,327,407"
-8,San Diego,California,"1,307,402"
-9,Dallas,Texas,"1,197,816"
-10,San Jose,California,"945,942"
-11,Jacksonville,Florida,"821,784"
-12,Indianapolis,Indiana,"820,445"
-13,Austin,Texas,"790,390"
-14,San Francisco,California,"805,235"
-15,Columbus,Ohio,"787,033"
-16,Fort Worth,Texas,"741,206"
-17,Charlotte,North Carolina,"731,424"
-18,Detroit,Michigan,"713,777"
-19,El Paso,Texas,"649,121"
-20,Memphis,Tennessee,"646,889"
-21,Boston,Massachusetts,"617,594"
-22,Seattle,Washington,"608,660"
-23,Denver,Colorado,"600,158"
-24,Baltimore,Maryland,"620,961"
-25,Washington,District of Columbia,"601,723"
-26,Nashville-Davidson metropolitan government,Tennessee,"601,222"
-27,Louisville/Jefferson County metro government,Kentucky,"597,337"
-28,Milwaukee,Wisconsin,"594,833"
-29,Portland,Oregon,"583,776"
-30,Oklahoma City,Oklahoma,"579,999"
-31,Las Vegas,Nevada,"583,756"
-32,Albuquerque,New Mexico,"545,852"
-33,Tucson,Arizona,"520,116"
-34,Fresno,California,"494,665"
-35,Sacramento,California,"466,488"
-36,Long Beach,California,"462,257"
-37,Kansas City,Missouri,"459,787"
-38,Mesa,Arizona,"439,041"
-39,Virginia Beach,Virginia,"437,994"
-40,Atlanta,Georgia,"420,003"
-41,Colorado Springs,Colorado,"416,427"
-42,Raleigh,North Carolina,"403,892"
-43,Omaha,Nebraska,"408,958"
-44,Miami,Florida,"399,457"
-45,Tulsa,Oklahoma,"391,906"
-46,Oakland,California,"390,724"
-47,Cleveland,Ohio,"396,815"
-48,Minneapolis,Minnesota,"382,578"
-49,Wichita,Kansas,"382,368"
-50,Arlington,Texas,"365,438"
-51,New Orleans,Louisiana,"343,829"
-52,Bakersfield,California,"347,483"
-53,Tampa,Florida,"335,709"
-54,Anaheim,California,"336,265"
-55,Urban Honolulu CDP,Hawaii,"337,256"
-56,Aurora,Colorado,"325,078"
-57,Santa Ana,California,"324,528"
-58,St. Louis,Missouri,"319,294"
-59,Riverside,California,"303,871"
-60,Corpus Christi,Texas,"305,215"
-61,Pittsburgh,Pennsylvania,"305,704"
-62,Lexington-Fayette urban county,Kentucky,"295,803"
-63,Stockton,California,"291,707"
-64,Cincinnati,Ohio,"296,943"
-65,Anchorage municipality,Alaska,"291,826"
-66,St. Paul,Minnesota,"285,068"
-67,Toledo,Ohio,"287,208"
-68,Newark,New Jersey,"277,140"
-69,Greensboro,North Carolina,"269,666"
-70,Plano,Texas,"259,841"
-71,Lincoln,Nebraska,"258,379"
-72,Buffalo,New York,"261,310"
-73,Henderson,Nevada,"257,729"
-74,Fort Wayne,Indiana,"253,691"
-75,Jersey City,New Jersey,"247,597"
-76,Chula Vista,California,"243,916"
-77,St. Petersburg,Florida,"244,769"
-78,Orlando,Florida,"238,300"
-79,Norfolk,Virginia,"242,803"
-80,Laredo,Texas,"236,091"
-81,Chandler,Arizona,"236,123"
-82,Madison,Wisconsin,"233,209"
-83,Lubbock,Texas,"229,573"
-84,Durham,North Carolina,"228,330"
-85,Winston-Salem,North Carolina,"229,617"
-86,Garland,Texas,"226,876"
-87,Glendale,Arizona,"226,721"
-88,Baton Rouge,Louisiana,"229,493"
-89,Hialeah,Florida,"224,669"
-90,Reno,Nevada,"225,221"
-91,Chesapeake,Virginia,"222,209"
-92,Scottsdale,Arizona,"217,385"
-93,Irving,Texas,"216,290"
-94,North Las Vegas,Nevada,"216,961"
-95,Fremont,California,"214,089"
-96,Irvine,California,"212,375"
-97,San Bernardino,California,"209,924"
-98,Birmingham,Alabama,"212,237"
-99,Gilbert town,Arizona,"208,453"
-100,Rochester,New York,"210,565"
-101,Boise City,Idaho,"205,671"
-102,Spokane,Washington,"208,916"
-103,Montgomery,Alabama,"205,764"
-104,Des Moines,Iowa,"203,433"
-105,Richmond,Virginia,"204,214"
-106,Fayetteville,North Carolina,"200,564"
-107,Modesto,California,"201,165"
-108,Shreveport,Louisiana,"199,311"
-109,Tacoma,Washington,"198,397"
-110,Oxnard,California,"197,899"
-111,Aurora,Illinois,"197,899"
-112,Fontana,California,"196,069"
-113,Akron,Ohio,"199,110"
-114,Moreno Valley,California,"193,365"
-115,Yonkers,New York,"195,976"
-116,Augusta-Richmond County consolidated government,Georgia,"195,844"
-117,Little Rock,Arkansas,"193,524"
-118,Mobile,Alabama,"195,111"
-119,Columbus,Georgia,"189,885"
-120,Amarillo,Texas,"190,695"
-121,Glendale,California,"191,719"
-122,Huntington Beach,California,"189,992"
-123,Salt Lake City,Utah,"186,440"
-124,Grand Rapids,Michigan,"188,040"
-125,Tallahassee,Florida,"181,376"
-126,Huntsville,Alabama,"180,105"
-127,Worcester,Massachusetts,"181,045"
-128,Knoxville,Tennessee,"178,874"
-129,Newport News,Virginia,"180,719"
-130,Grand Prairie,Texas,"175,396"
-131,Brownsville,Texas,"175,023"
-132,Providence,Rhode Island,"178,042"
-133,Santa Clarita,California,"176,320"
-134,Overland Park,Kansas,"173,372"
-135,Jackson,Mississippi,"173,514"
-136,Garden Grove,California,"170,883"
-137,Chattanooga,Tennessee,"167,674"
-138,Oceanside,California,"167,086"
-139,Santa Rosa,California,"167,815"
-140,Fort Lauderdale,Florida,"165,521"
-141,Rancho Cucamonga,California,"165,269"
-142,Ontario,California,"163,924"
-143,Port St. Lucie,Florida,"164,603"
-144,Vancouver,Washington,"161,791"
-145,Tempe,Arizona,"161,719"
-146,Springfield,Missouri,"159,498"
-147,Lancaster,California,"156,633"
-148,Pembroke Pines,Florida,"154,750"
-149,Cape Coral,Florida,"154,305"
-150,Eugene,Oregon,"156,185"
-151,Peoria,Arizona,"154,065"
-152,Sioux Falls,South Dakota,"153,888"
-153,Salem,Oregon,"154,637"
-154,Corona,California,"152,374"
-155,Elk Grove,California,"153,015"
-156,Palmdale,California,"152,750"
-157,Springfield,Massachusetts,"153,060"
-158,Salinas,California,"150,441"
-159,Pasadena,Texas,"149,043"
-160,Rockford,Illinois,"152,871"
-161,Pomona,California,"149,058"
-162,Joliet,Illinois,"147,433"
-163,Fort Collins,Colorado,"143,986"
-164,Torrance,California,"145,438"
-165,Kansas City,Kansas,"145,786"
-166,Paterson,New Jersey,"146,199"
-167,Hayward,California,"144,186"
-168,Escondido,California,"143,911"
-169,Bridgeport,Connecticut,"144,229"
-170,Syracuse,New York,"145,170"
-171,Lakewood,Colorado,"142,980"
-172,Alexandria,Virginia,"139,966"
-173,Hollywood,Florida,"140,768"
-174,Naperville,Illinois,"141,853"
-175,Mesquite,Texas,"139,824"
-176,Sunnyvale,California,"140,081"
-177,Dayton,Ohio,"141,527"
-178,Cary town,North Carolina,"135,234"
-179,Savannah,Georgia,"136,286"
-180,Orange,California,"136,416"
-181,Pasadena,California,"137,122"
-182,Fullerton,California,"135,161"
-183,Hampton,Virginia,"137,436"
-184,Clarksville,Tennessee,"132,929"
-185,McKinney,Texas,"131,117"
-186,Warren,Michigan,"134,056"
-187,McAllen,Texas,"129,877"
-188,West Valley City,Utah,"129,480"
-189,Columbia,South Carolina,"129,272"
-190,Killeen,Texas,"127,921"
-191,Sterling Heights,Michigan,"129,699"
-192,New Haven,Connecticut,"129,779"
-193,Topeka,Kansas,"127,473"
-194,Thousand Oaks,California,"126,683"
-195,Olathe,Kansas,"125,872"
-196,Cedar Rapids,Iowa,"126,326"
-197,Waco,Texas,"124,805"
-198,Visalia,California,"124,442"
-199,Elizabeth,New Jersey,"124,969"
-200,Simi Valley,California,"124,237"
-201,Gainesville,Florida,"124,354"
-202,Hartford,Connecticut,"124,775"
-203,Bellevue,Washington,"122,363"
-204,Miramar,Florida,"122,041"
-205,Concord,California,"122,067"
-206,Stamford,Connecticut,"122,643"
-207,Coral Springs,Florida,"121,096"
-208,Charleston,South Carolina,"120,083"
-209,Carrollton,Texas,"119,097"
-210,Lafayette,Louisiana,"120,623"
-211,Roseville,California,"118,788"
-212,Thornton,Colorado,"118,772"
-213,Frisco,Texas,"116,989"
-214,Kent,Washington,"92,411"
-215,Surprise,Arizona,"117,517"
-216,Allentown,Pennsylvania,"118,032"
-217,Beaumont,Texas,"118,296"
-218,Santa Clara,California,"116,468"
-219,Abilene,Texas,"117,063"
-220,Evansville,Indiana,"117,429"
-221,Victorville,California,"115,903"
-222,Independence,Missouri,"116,830"
-223,Denton,Texas,"113,383"
-224,Springfield,Illinois,"116,250"
-225,Vallejo,California,"115,942"
-226,Athens-Clarke County unified government,Georgia,"115,452"
-227,Provo,Utah,"112,488"
-228,Peoria,Illinois,"115,007"
-229,Ann Arbor,Michigan,"113,934"
-230,Lansing,Michigan,"114,297"
-231,El Monte,California,"113,475"
-232,Midland,Texas,"111,147"
-233,Berkeley,California,"112,580"
-234,Norman,Oklahoma,"110,925"
-235,Downey,California,"111,772"
-236,Costa Mesa,California,"109,960"
-237,Murfreesboro,Tennessee,"108,755"
-238,Inglewood,California,"109,673"
-239,Columbia,Missouri,"108,500"
-240,Waterbury,Connecticut,"110,366"
-241,Manchester,New Hampshire,"109,565"
-242,Miami Gardens,Florida,"107,167"
-243,Elgin,Illinois,"108,188"
-244,Wilmington,North Carolina,"106,476"
-245,Westminster,Colorado,"106,114"
-246,Rochester,Minnesota,"106,769"
-247,Clearwater,Florida,"107,685"
-248,Lowell,Massachusetts,"106,519"
-249,Pueblo,Colorado,"106,595"
-250,Arvada,Colorado,"106,433"
-251,San Buenaventura (Ventura),California,"106,433"
-252,Gresham,Oregon,"105,594"
-253,Fargo,North Dakota,"105,549"
-254,Carlsbad,California,"105,328"
-255,West Covina,California,"106,098"
-256,Norwalk,California,"105,549"
-257,Fairfield,California,"105,321"
-258,Cambridge,Massachusetts,"105,162"
-259,Murrieta,California,"103,466"
-260,Green Bay,Wisconsin,"104,057"
-261,High Point,North Carolina,"104,371"
-262,West Jordan,Utah,"103,712"
-263,Billings,Montana,"104,170"
-264,Richmond,California,"103,701"
-265,Round Rock,Texas,"99,887"
-266,Everett,Washington,"103,019"
-267,Burbank,California,"103,340"
-268,Antioch,California,"102,372"
-269,Wichita Falls,Texas,"104,553"
-270,Palm Bay,Florida,"103,190"
-271,Centennial,Colorado,"100,377"
-272,Temecula,California,"100,097"
-273,Daly City,California,"101,123"
-274,Odessa,Texas,"99,940"
-275,Erie,Pennsylvania,"101,786"
-276,Richardson,Texas,"99,223"
-277,Pompano Beach,Florida,"99,845"
-278,Flint,Michigan,"102,434"
-279,South Bend,Indiana,"101,168"
-280,West Palm Beach,Florida,"99,919"
-281,El Cajon,California,"99,478"
-282,Davenport,Iowa,"99,685"
-283,Rialto,California,"99,171"
-284,Santa Maria,California,"99,553"
-285,Broken Arrow,Oklahoma,"98,850"
-286,Kenosha,Wisconsin,"99,218"
-287,North Charleston,South Carolina,"97,471"
-288,Las Cruces,New Mexico,"97,618"
-289,Boulder,Colorado,"97,385"
-290,Lewisville,Texas,"95,290"
-291,Lakeland,Florida,"97,422"
-292,Tyler,Texas,"96,900"
-293,San Mateo,California,"97,207"
-294,Lawton,Oklahoma,"96,867"
-295,Albany,New York,"97,856"
-296,Compton,California,"96,455"
-297,Dearborn,Michigan,"98,153"
-298,Clovis,California,"95,631"
-299,Sandy Springs,Georgia,"93,853"
-300,Roanoke,Virginia,"97,032"
-301,Livonia,Michigan,"96,942"
-302,Portsmouth,Virginia,"95,535"
-303,Vista,California,"93,834"
-304,New Bedford,Massachusetts,"95,072"
-305,College Station,Texas,"93,857"
-306,South Gate,California,"94,396"
-307,Greeley,Colorado,"92,889"
-308,Mission Viejo,California,"93,305"
-309,San Angelo,Texas,"93,200"
-310,Yuma,Arizona,"93,064"
-311,Brockton,Massachusetts,"93,810"
-312,Davie town,Florida,"91,992"
-313,Hillsboro,Oregon,"91,611"
-314,Pearland,Texas,"91,252"
-315,Vacaville,California,"92,428"
-316,Quincy,Massachusetts,"92,271"
-317,Renton,Washington,"90,927"
-318,Yakima,Washington,"91,067"
-319,Carson,California,"91,714"
-320,Macon,Georgia,"91,351"
-321,Lee's Summit,Missouri,"91,364"
-322,Beaverton,Oregon,"89,803"
-323,Tuscaloosa,Alabama,"90,468"
-324,Hesperia,California,"90,173"
-325,Sparks,Nevada,"90,264"
-326,Roswell,Georgia,"88,346"
-327,Federal Way,Washington,"89,306"
-328,Westminster,California,"89,701"
-329,Lynn,Massachusetts,"90,329"
-330,Orem,Utah,"88,328"
-331,Santa Monica,California,"89,736"
-332,Spokane Valley,Washington,"89,755"
-333,Redding,California,"89,861"
-334,Miami Beach,Florida,"87,779"
-335,Waukegan,Illinois,"89,078"
-336,Rio Rancho,New Mexico,"87,521"
-337,Sandy,Utah,"87,461"
-338,Santa Barbara,California,"88,410"
-339,Fall River,Massachusetts,"88,857"
-340,Lawrence,Kansas,"87,643"
-341,Reading,Pennsylvania,"88,082"
-342,Longmont,Colorado,"86,270"
-343,Allen,Texas,"84,246"
-344,Fort Smith,Arkansas,"86,209"
-345,Nashua,New Hampshire,"86,494"
-346,Plantation,Florida,"84,955"
-347,Newport Beach,California,"85,186"
-348,Norwalk,Connecticut,"85,603"
-349,Chico,California,"86,187"
-350,Duluth,Minnesota,"86,265"
-351,San Leandro,California,"84,950"
-352,Greenville,North Carolina,"84,554"
-353,Sunrise,Florida,"84,439"
-354,Newton,Massachusetts,"85,146"
-355,Whittier,California,"85,331"
-356,Boca Raton,Florida,"84,392"
-357,Deltona,Florida,"85,182"
-358,San Marcos,California,"83,781"
-359,Suffolk,Virginia,"84,585"
-360,Hawthorne,California,"84,293"
-361,Trenton,New Jersey,"84,913"
-362,League City,Texas,"83,560"
-363,Asheville,North Carolina,"83,393"
-364,Citrus Heights,California,"83,301"
-365,Clifton,New Jersey,"84,136"
-366,Tracy,California,"82,922"
-367,Cicero town,Illinois,"83,891"
-368,Bloomington,Minnesota,"82,893"
-369,Ogden,Utah,"82,825"
-370,Alhambra,California,"83,089"
-371,Westland,Michigan,"84,094"
-372,Sioux City,Iowa,"82,684"
-373,Edmond,Oklahoma,"81,405"
-374,Nampa,Idaho,"81,557"
-375,Warwick,Rhode Island,"82,672"
-376,Livermore,California,"80,968"
-377,Hoover,Alabama,"81,619"
-378,Bellingham,Washington,"80,885"
-379,Buena Park,California,"80,530"
-380,Sugar Land,Texas,"78,817"
-381,Danbury,Connecticut,"80,893"
-382,Carmel,Indiana,"79,191"
-383,Troy,Michigan,"80,980"
-384,Bloomington,Indiana,"80,405"
-385,Longview,Texas,"80,455"
-386,Champaign,Illinois,"81,055"
-387,Parma,Ohio,"81,601"
-388,Hammond,Indiana,"80,830"
-389,Lakewood,California,"80,048"
-390,Concord,North Carolina,"79,066"
-391,O'Fallon,Missouri,"79,329"
-392,Hemet,California,"78,657"
-393,Cranston,Rhode Island,"80,387"
-394,Farmington Hills,Michigan,"79,740"
-395,Merced,California,"78,958"
-396,Gary,Indiana,"80,294"
-397,Mission,Texas,"77,058"
-398,Menifee,California,"77,519"
-399,Johns Creek,Georgia,"76,728"
-400,Edinburg,Texas,"77,100"
-401,Fishers town,Indiana,"76,794"
-402,Chino,California,"77,983"
-403,Racine,Wisconsin,"78,860"
-404,Lake Forest,California,"77,264"
-405,Bend,Oregon,"76,639"
-406,Napa,California,"76,915"
-407,Indio,California,"76,036"
-408,Redwood City,California,"76,815"
-409,Largo,Florida,"77,648"
-410,Albany,Georgia,"77,434"
-411,New Rochelle,New York,"77,062"
-412,Avondale,Arizona,"76,238"
-413,Bryan,Texas,"76,201"
-414,Camden,New Jersey,"77,344"
-415,St. Joseph,Missouri,"76,780"
-416,Bellflower,California,"76,616"
-417,Bloomington,Illinois,"76,610"
-418,Lawrence,Massachusetts,"76,377"
-419,Brooklyn Park,Minnesota,"75,781"
-420,Meridian,Idaho,"75,092"
-421,Tustin,California,"75,540"
-422,Somerville,Massachusetts,"75,754"
-423,Lynchburg,Virginia,"75,568"
-424,Palm Coast,Florida,"75,180"
-425,Deerfield Beach,Florida,"75,018"
-426,Kennewick,Washington,"73,917"
-427,Decatur,Illinois,"76,122"
-428,Melbourne,Florida,"76,068"
-429,Scranton,Pennsylvania,"76,089"
-430,Baldwin Park,California,"75,390"
-431,Chino Hills,California,"74,799"
-432,Medford,Oregon,"74,907"
-433,Arlington Heights village,Illinois,"75,101"
-434,Bethlehem,Pennsylvania,"74,982"
-435,Mountain View,California,"74,066"
-436,Fayetteville,Arkansas,"73,580"
-437,Upland,California,"73,732"
-438,Evanston,Illinois,"74,486"
-439,Alameda,California,"73,812"
-440,St. George,Utah,"72,897"
-441,Kalamazoo,Michigan,"74,262"
-442,Schaumburg village,Illinois,"74,227"
-443,Bolingbrook village,Illinois,"73,366"
-444,San Ramon,California,"72,148"
-445,Baytown,Texas,"71,802"
-446,New Britain,Connecticut,"73,206"
-447,Appleton,Wisconsin,"72,623"
-448,Folsom,California,"72,203"
-449,Canton,Ohio,"73,007"
-450,Wyoming,Michigan,"72,125"
-451,Pharr,Texas,"70,400"
-452,Lake Charles,Louisiana,"71,993"
-453,Southfield,Michigan,"71,739"
-454,Gastonia,North Carolina,"71,741"
-455,Plymouth,Minnesota,"70,576"
-456,Auburn,Washington,"70,180"
-457,Rochester Hills,Michigan,"70,995"
-458,Springdale,Arkansas,"69,797"
-459,Wilmington,Delaware,"70,851"
-460,Pleasanton,California,"70,285"
-461,Pawtucket,Rhode Island,"71,148"
-462,Waukesha,Wisconsin,"70,718"
-463,Jacksonville,North Carolina,"70,145"
-464,Union City,California,"69,516"
-465,Lynwood,California,"69,772"
-466,Apple Valley town,California,"69,135"
-467,Muncie,Indiana,"70,085"
-468,Perris,California,"68,386"
-469,Passaic,New Jersey,"69,781"
-470,Missouri City,Texas,"67,358"
-471,Redlands,California,"68,747"
-472,Mount Pleasant town,South Carolina,"67,843"
-473,Gulfport,Mississippi,"67,793"
-474,Rapid City,South Dakota,"67,956"
-475,Turlock,California,"68,549"
-476,Boynton Beach,Florida,"68,217"
-477,Iowa City,Iowa,"67,862"
-478,Palatine village,Illinois,"68,557"
-479,Waterloo,Iowa,"68,406"
-480,Santa Fe,New Mexico,"67,947"
-481,Jonesboro,Arkansas,"67,263"
-482,Warner Robins,Georgia,"66,588"
-483,Layton,Utah,"67,311"
-484,Manteca,California,"67,096"
-485,Loveland,Colorado,"66,859"
-486,Lauderhill,Florida,"66,887"
-487,Lafayette,Indiana,"67,140"
-488,Milpitas,California,"66,790"
-489,Mount Vernon,New York,"67,292"
-490,Rock Hill,South Carolina,"66,154"
-491,Missoula,Montana,"66,788"
-492,Redondo Beach,California,"66,748"
-493,Temple,Texas,"66,102"
-494,Union City,New Jersey,"66,455"
-495,Flower Mound town,Texas,"64,669"
-496,Kenner,Louisiana,"66,702"
-497,Eau Claire,Wisconsin,"65,883"
-498,St. Charles,Missouri,"65,794"
-499,Youngstown,Ohio,"66,982"
-500,Weston,Florida,"65,333"
-501,Portland,Maine,"66,194"
-502,Oshkosh,Wisconsin,"66,083"
-503,Goodyear,Arizona,"65,275"
-504,Schenectady,New York,"66,135"
-505.5,St. Cloud,Minnesota,"65,842"
-505.5,Frederick,Maryland,"65,239"
-507,Harlingen,Texas,"64,849"
-508,Davis,California,"65,622"
-509,Dothan,Alabama,"65,496"
-510,Flagstaff,Arizona,"65,870"
-511,Camarillo,California,"65,201"
-512,Rancho Cordova,California,"64,776"
-513,Palo Alto,California,"64,403"
-514,Yorba Linda,California,"64,234"
-515,Walnut Creek,California,"64,173"
-516,Jackson,Tennessee,"65,211"
-517,Skokie village,Illinois,"64,784"
-518,Yuba City,California,"64,925"
-519,North Richland Hills,Texas,"63,343"
-520,Eagan,Minnesota,"64,206"
-521,San Clemente,California,"63,522"
-522,South San Francisco,California,"63,632"
-523,East Orange,New Jersey,"64,270"
-524,Franklin,Tennessee,"62,487"
-525,Pittsburg,California,"63,264"
-526,Lorain,Ohio,"64,097"
-527,Laguna Niguel,California,"62,979"
-528,Johnson City,Tennessee,"63,152"
-529,Bayonne,New Jersey,"63,024"
-530,Fort Myers,Florida,"62,298"
-531,Janesville,Wisconsin,"63,575"
-532,Pico Rivera,California,"62,942"
-533,Shawnee,Kansas,"62,209"
-534,Pasco,Washington,"59,781"
-535,Lodi,California,"62,134"
-536,Victoria,Texas,"62,592"
-537,Montebello,California,"62,500"
-538,North Little Rock,Arkansas,"62,304"
-539,Hamilton,Ohio,"62,477"
-540,Woodbury,Minnesota,"61,961"
-541,Bossier City,Louisiana,"61,315"
-542,Bismarck,North Dakota,"61,272"
-543,Taylor,Michigan,"63,131"
-544,Council Bluffs,Iowa,"62,230"
-545,Maple Grove,Minnesota,"61,567"
-546,Rockville,Maryland,"61,209"
-547,Madera,California,"61,416"
-548,Utica,New York,"62,235"
-549,Homestead,Florida,"60,512"
-550,Coon Rapids,Minnesota,"61,476"
-551,Eden Prairie,Minnesota,"60,797"
-552,Tamarac,Florida,"60,427"
-553,Haverhill,Massachusetts,"60,879"
-554,Kissimmee,Florida,"59,682"
-555,Delray Beach,Florida,"60,522"
-556,Waltham,Massachusetts,"60,632"
-557,La Habra,California,"60,239"
-558,Gaithersburg,Maryland,"59,933"
-559,Daytona Beach,Florida,"61,005"
-560,Terre Haute,Indiana,"60,785"
-561,Vineland,New Jersey,"60,724"
-562,Burnsville,Minnesota,"60,306"
-563,Marysville,Washington,"60,020"
-564,Meriden,Connecticut,"60,868"
-565,West Allis,Wisconsin,"60,411"
-566,Monterey Park,California,"60,269"
-567,Bristol,Connecticut,"60,477"
-568,Conway,Arkansas,"58,908"
-569,Encinitas,California,"59,518"
-570,Greenville,South Carolina,"58,409"
-571,Santa Cruz,California,"59,946"
-572,Springfield,Ohio,"60,608"
-573,Tulare,California,"59,278"
-574,North Miami,Florida,"58,786"
-575,Cheyenne,Wyoming,"59,466"
-576,Malden,Massachusetts,"59,450"
-577,Lancaster,Pennsylvania,"59,322"
-578,Pontiac,Michigan,"59,515"
-579,St. Clair Shores,Michigan,"59,715"
-580,Taylorsville,Utah,"58,652"
-581,Springfield,Oregon,"59,403"
-582,New Braunfels,Texas,"57,740"
-583,Alpharetta,Georgia,"57,551"
-584,National City,California,"58,582"
-585,Gardena,California,"58,829"
-586,Cupertino,California,"58,302"
-587,Ames,Iowa,"58,965"
-588,Conroe,Texas,"56,207"
-589,Great Falls,Montana,"58,505"
-590,Bowling Green,Kentucky,"58,067"
-591,Lakewood,Washington,"58,163"
-592,Grand Junction,Colorado,"58,566"
-593,Des Plaines,Illinois,"58,364"
-594,Huntington Park,California,"58,114"
-595,Petaluma,California,"57,941"
-596,Rocklin,California,"56,974"
-597,San Rafael,California,"57,713"
-598,Dubuque,Iowa,"57,637"
-599,Chapel Hill town,North Carolina,"57,233"
-600,West Des Moines,Iowa,"56,609"
-601,La Mesa,California,"57,065"
-602,North Port,Florida,"57,357"
-603,Idaho Falls,Idaho,"56,813"
-604,Mansfield,Texas,"56,368"
-605,Royal Oak,Michigan,"57,236"
-606,Owensboro,Kentucky,"57,265"
-607,Blaine,Minnesota,"57,186"
-608,Rogers,Arkansas,"55,964"
-609,Rowlett,Texas,"56,199"
-610,Rocky Mount,North Carolina,"57,477"
-611,Marietta,Georgia,"56,579"
-612,Broomfield,Colorado,"55,889"
-613,White Plains,New York,"56,853"
-614,Dearborn Heights,Michigan,"57,774"
-615,Wellington village,Florida,"56,508"
-616,Orland Park village,Illinois,"56,767"
-617,Tinley Park village,Illinois,"56,703"
-618,Oak Lawn village,Illinois,"56,690"
-619,Berwyn,Illinois,"56,657"
-620,Arcadia,California,"56,364"
-621,Medford,Massachusetts,"56,173"
-622,Port Orange,Florida,"56,048"
-623,Ocala,Florida,"56,315"
-624,Lakeville,Minnesota,"55,954"
-625,Kettering,Ohio,"56,163"
-626,Moore,Oklahoma,"55,081"
-627,Fountain Valley,California,"55,313"
-628,Valdosta,Georgia,"54,518"
-629,Casper,Wyoming,"55,316"
-630,Anderson,Indiana,"56,129"
-631,Diamond Bar,California,"55,544"
-632,Taunton,Massachusetts,"55,874"
-633,Jupiter town,Florida,"55,156"
-634,Decatur,Alabama,"55,683"
-635,Woodland,California,"55,468"
-636,Novi,Michigan,"55,224"
-637,West Haven,Connecticut,"55,564"
-638,New Brunswick,New Jersey,"55,181"
-639,Carson City,Nevada,"55,274"
-640,Midwest City,Oklahoma,"54,371"
-641,Chicopee,Massachusetts,"55,298"
-642,Bowie,Maryland,"54,727"
-643,Redmond,Washington,"54,144"
-644,Bartlett,Tennessee,"54,613"
-645,Porterville,California,"54,165"
-646,Eastvale,California,(X)
-647,Pocatello,Idaho,"54,255"
-648,Corvallis,Oregon,"54,462"
-649,Elyria,Ohio,"54,533"
-650,Auburn,Alabama,"53,380"
-651,Paramount,California,"54,098"
-652,Mount Prospect village,Illinois,"54,167"
-653,Hanford,California,"53,967"
-654,Margate,Florida,"53,284"
-655,Santee,California,"53,413"
-656,Rosemead,California,"53,764"
-657,Weymouth Town,Massachusetts,"53,743"
-658,Hempstead village,New York,"53,891"
-659,Shoreline,Washington,"53,007"
-660,Port Arthur,Texas,"53,818"
-661,Sanford,Florida,"53,570"
-662,Coconut Creek,Florida,"52,909"
-663,Highland,California,"53,104"
-664,Delano,California,"53,041"
-665,Manhattan,Kansas,"52,281"
-666,Noblesville,Indiana,"51,969"
-667,Lake Elsinore,California,"51,821"
-668,St. Peters,Missouri,"52,575"
-669,Wheaton,Illinois,"52,894"
-670,Colton,California,"52,154"
-671,Lake Havasu City,Arizona,"52,527"
-672,Normal town,Illinois,"52,497"
-673,Blue Springs,Missouri,"52,575"
-674,Grand Forks,North Dakota,"52,838"
-675,Revere,Massachusetts,"51,755"
-676,Novato,California,"51,904"
-677,Euless,Texas,"51,277"
-678,Cathedral City,California,"51,200"
-679,Hendersonville,Tennessee,"51,372"
-680,Sarasota,Florida,"51,917"
-681,Brentwood,California,"51,481"
-682,Pensacola,Florida,"51,923"
-683,Florissant,Missouri,"52,158"
-684,Yucaipa,California,"51,367"
-685,Hoffman Estates village,Illinois,"51,895"
-686,Oak Park village,Illinois,"51,878"
-687,Battle Creek,Michigan,"52,347"
-688,Smyrna,Georgia,"51,271"
-689,Lakewood,Ohio,"52,131"
-690,La Crosse,Wisconsin,"51,320"
-691,Peabody,Massachusetts,"51,251"
-692,Buckeye town,Arizona,"50,876"
-693,Watsonville,California,"51,199"
-694,Greenwood,Indiana,"49,791"
-695,South Jordan,Utah,"50,418"
-696,Elkhart,Indiana,"50,949"
-697,Bellevue,Nebraska,"50,137"
-698,Placentia,California,"50,533"
-699,Cedar Park,Texas,"48,937"
-700,Saginaw,Michigan,"51,508"
-701,Milford,Connecticut,"51,271"
-702,Charleston,West Virginia,"51,400"
-703,Perth Amboy,New Jersey,"50,814"
-704,Burlington,North Carolina,"49,963"
-705,Albany,Oregon,"50,158"
-706,Joplin,Missouri,"50,150"
-707,Hoboken,New Jersey,"50,005"
-708.5,Minnetonka,Minnesota,"49,734"
-708.5,Glendora,California,"50,073"
-710,West New York town,New Jersey,"49,708"
-711,Bradenton,Florida,"49,546"
-712,Troy,New York,"50,129"
-713,Niagara Falls,New York,"50,193"
-714,Plainfield,New Jersey,"49,808"
-715,DeSoto,Texas,"49,047"
+rank,place,state,population,latitude,longitude,name,desc,color,source,precision
+1,New York,New York,"8,175,133",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+2,Los Angeles,California,"3,792,621",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+3,Chicago,Illinois,"2,695,598",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+4,Houston,Texas,"2,099,451",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+5,Philadelphia,Pennsylvania,"1,526,006",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+6,Phoenix,Arizona,"1,445,632",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+7,San Antonio,Texas,"1,327,407",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+8,San Diego,California,"1,307,402",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+9,Dallas,Texas,"1,197,816",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+10,San Jose,California,"945,942",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+11,Jacksonville,Florida,"821,784",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+12,Indianapolis,Indiana,"820,445",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+13,Austin,Texas,"790,390",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+14,San Francisco,California,"805,235",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+15,Columbus,Ohio,"787,033",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+16,Fort Worth,Texas,"741,206",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+17,Charlotte,North Carolina,"731,424",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+18,Detroit,Michigan,"713,777",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+19,El Paso,Texas,"649,121",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+20,Memphis,Tennessee,"646,889",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+21,Boston,Massachusetts,"617,594",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+22,Seattle,Washington,"608,660",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+23,Denver,Colorado,"600,158",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+24,Baltimore,Maryland,"620,961",38.9455986,-76.6833878,Maryland,Maryland,,Bing Maps,state/province
+25,Washington,District of Columbia,"601,723",38.8903694,-77.0319595,District of Columbia,"Washington, DC",,Bing Maps,city/town
+26,Nashville-Davidson metropolitan government,Tennessee,"601,222",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+27,Louisville/Jefferson County metro government,Kentucky,"597,337",37.5272331,-85.2876205,Kentucky,Kentucky,,Bing Maps,state/province
+28,Milwaukee,Wisconsin,"594,833",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+29,Portland,Oregon,"583,776",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+30,Oklahoma City,Oklahoma,"579,999",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+31,Las Vegas,Nevada,"583,756",39.358387,-116.6546555,Nevada,Nevada,,Bing Maps,state/province
+32,Albuquerque,New Mexico,"545,852",34.4216003,-106.110939,New Mexico,New Mexico,,Bing Maps,state/province
+33,Tucson,Arizona,"520,116",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+34,Fresno,California,"494,665",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+35,Sacramento,California,"466,488",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+36,Long Beach,California,"462,257",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+37,Kansas City,Missouri,"459,787",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+38,Mesa,Arizona,"439,041",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+39,Virginia Beach,Virginia,"437,994",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+40,Atlanta,Georgia,"420,003",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+41,Colorado Springs,Colorado,"416,427",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+42,Raleigh,North Carolina,"403,892",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+43,Omaha,Nebraska,"408,958",41.5272713,-99.8111038,Nebraska,Nebraska,,Bing Maps,state/province
+44,Miami,Florida,"399,457",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+45,Tulsa,Oklahoma,"391,906",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+46,Oakland,California,"390,724",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+47,Cleveland,Ohio,"396,815",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+48,Minneapolis,Minnesota,"382,578",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+49,Wichita,Kansas,"382,368",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+50,Arlington,Texas,"365,438",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+51,New Orleans,Louisiana,"343,829",30.9075546,-91.8198318,Louisiana,Louisiana,,Bing Maps,state/province
+52,Bakersfield,California,"347,483",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+53,Tampa,Florida,"335,709",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+54,Anaheim,California,"336,265",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+55,Urban Honolulu CDP,Hawaii,"337,256",20.7492104,-157.1586761,Hawaii,Hawaii,,Bing Maps,state/province
+56,Aurora,Colorado,"325,078",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+57,Santa Ana,California,"324,528",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+58,St. Louis,Missouri,"319,294",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+59,Riverside,California,"303,871",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+60,Corpus Christi,Texas,"305,215",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+61,Pittsburgh,Pennsylvania,"305,704",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+62,Lexington-Fayette urban county,Kentucky,"295,803",37.5272331,-85.2876205,Kentucky,Kentucky,,Bing Maps,state/province
+63,Stockton,California,"291,707",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+64,Cincinnati,Ohio,"296,943",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+65,Anchorage municipality,Alaska,"291,826",63.1236229,-154.3052063,Alaska,Alaska,,Bing Maps,state/province
+66,St. Paul,Minnesota,"285,068",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+67,Toledo,Ohio,"287,208",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+68,Newark,New Jersey,"277,140",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+69,Greensboro,North Carolina,"269,666",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+70,Plano,Texas,"259,841",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+71,Lincoln,Nebraska,"258,379",41.5272713,-99.8111038,Nebraska,Nebraska,,Bing Maps,state/province
+72,Buffalo,New York,"261,310",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+73,Henderson,Nevada,"257,729",39.358387,-116.6546555,Nevada,Nevada,,Bing Maps,state/province
+74,Fort Wayne,Indiana,"253,691",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+75,Jersey City,New Jersey,"247,597",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+76,Chula Vista,California,"243,916",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+77,St. Petersburg,Florida,"244,769",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+78,Orlando,Florida,"238,300",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+79,Norfolk,Virginia,"242,803",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+80,Laredo,Texas,"236,091",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+81,Chandler,Arizona,"236,123",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+82,Madison,Wisconsin,"233,209",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+83,Lubbock,Texas,"229,573",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+84,Durham,North Carolina,"228,330",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+85,Winston-Salem,North Carolina,"229,617",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+86,Garland,Texas,"226,876",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+87,Glendale,Arizona,"226,721",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+88,Baton Rouge,Louisiana,"229,493",30.9075546,-91.8198318,Louisiana,Louisiana,,Bing Maps,state/province
+89,Hialeah,Florida,"224,669",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+90,Reno,Nevada,"225,221",39.358387,-116.6546555,Nevada,Nevada,,Bing Maps,state/province
+91,Chesapeake,Virginia,"222,209",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+92,Scottsdale,Arizona,"217,385",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+93,Irving,Texas,"216,290",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+94,North Las Vegas,Nevada,"216,961",39.358387,-116.6546555,Nevada,Nevada,,Bing Maps,state/province
+95,Fremont,California,"214,089",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+96,Irvine,California,"212,375",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+97,San Bernardino,California,"209,924",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+98,Birmingham,Alabama,"212,237",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+99,Gilbert town,Arizona,"208,453",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+100,Rochester,New York,"210,565",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+101,Boise City,Idaho,"205,671",44.3890343,-114.6594162,Idaho,Idaho,,Bing Maps,state/province
+102,Spokane,Washington,"208,916",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+103,Montgomery,Alabama,"205,764",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+104,Des Moines,Iowa,"203,433",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+105,Richmond,Virginia,"204,214",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+106,Fayetteville,North Carolina,"200,564",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+107,Modesto,California,"201,165",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+108,Shreveport,Louisiana,"199,311",30.9075546,-91.8198318,Louisiana,Louisiana,,Bing Maps,state/province
+109,Tacoma,Washington,"198,397",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+110,Oxnard,California,"197,899",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+111,Aurora,Illinois,"197,899",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+112,Fontana,California,"196,069",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+113,Akron,Ohio,"199,110",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+114,Moreno Valley,California,"193,365",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+115,Yonkers,New York,"195,976",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+116,Augusta-Richmond County consolidated government,Georgia,"195,844",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+117,Little Rock,Arkansas,"193,524",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+118,Mobile,Alabama,"195,111",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+119,Columbus,Georgia,"189,885",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+120,Amarillo,Texas,"190,695",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+121,Glendale,California,"191,719",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+122,Huntington Beach,California,"189,992",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+123,Salt Lake City,Utah,"186,440",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+124,Grand Rapids,Michigan,"188,040",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+125,Tallahassee,Florida,"181,376",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+126,Huntsville,Alabama,"180,105",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+127,Worcester,Massachusetts,"181,045",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+128,Knoxville,Tennessee,"178,874",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+129,Newport News,Virginia,"180,719",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+130,Grand Prairie,Texas,"175,396",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+131,Brownsville,Texas,"175,023",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+132,Providence,Rhode Island,"178,042",41.4887123,-71.4543228,Rhode Island,Rhode Island,,Bing Maps,state/province
+133,Santa Clarita,California,"176,320",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+134,Overland Park,Kansas,"173,372",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+135,Jackson,Mississippi,"173,514",32.7113609,-89.6544571,Mississippi,Mississippi,,Bing Maps,state/province
+136,Garden Grove,California,"170,883",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+137,Chattanooga,Tennessee,"167,674",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+138,Oceanside,California,"167,086",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+139,Santa Rosa,California,"167,815",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+140,Fort Lauderdale,Florida,"165,521",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+141,Rancho Cucamonga,California,"165,269",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+142,Ontario,California,"163,924",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+143,Port St. Lucie,Florida,"164,603",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+144,Vancouver,Washington,"161,791",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+145,Tempe,Arizona,"161,719",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+146,Springfield,Missouri,"159,498",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+147,Lancaster,California,"156,633",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+148,Pembroke Pines,Florida,"154,750",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+149,Cape Coral,Florida,"154,305",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+150,Eugene,Oregon,"156,185",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+151,Peoria,Arizona,"154,065",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+152,Sioux Falls,South Dakota,"153,888",44.4361343,-100.2305298,South Dakota,South Dakota,,Bing Maps,state/province
+153,Salem,Oregon,"154,637",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+154,Corona,California,"152,374",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+155,Elk Grove,California,"153,015",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+156,Palmdale,California,"152,750",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+157,Springfield,Massachusetts,"153,060",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+158,Salinas,California,"150,441",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+159,Pasadena,Texas,"149,043",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+160,Rockford,Illinois,"152,871",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+161,Pomona,California,"149,058",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+162,Joliet,Illinois,"147,433",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+163,Fort Collins,Colorado,"143,986",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+164,Torrance,California,"145,438",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+165,Kansas City,Kansas,"145,786",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+166,Paterson,New Jersey,"146,199",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+167,Hayward,California,"144,186",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+168,Escondido,California,"143,911",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+169,Bridgeport,Connecticut,"144,229",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+170,Syracuse,New York,"145,170",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+171,Lakewood,Colorado,"142,980",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+172,Alexandria,Virginia,"139,966",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+173,Hollywood,Florida,"140,768",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+174,Naperville,Illinois,"141,853",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+175,Mesquite,Texas,"139,824",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+176,Sunnyvale,California,"140,081",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+177,Dayton,Ohio,"141,527",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+178,Cary town,North Carolina,"135,234",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+179,Savannah,Georgia,"136,286",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+180,Orange,California,"136,416",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+181,Pasadena,California,"137,122",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+182,Fullerton,California,"135,161",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+183,Hampton,Virginia,"137,436",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+184,Clarksville,Tennessee,"132,929",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+185,McKinney,Texas,"131,117",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+186,Warren,Michigan,"134,056",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+187,McAllen,Texas,"129,877",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+188,West Valley City,Utah,"129,480",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+189,Columbia,South Carolina,"129,272",33.8724251,-80.8531265,South Carolina,South Carolina,,Bing Maps,state/province
+190,Killeen,Texas,"127,921",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+191,Sterling Heights,Michigan,"129,699",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+192,New Haven,Connecticut,"129,779",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+193,Topeka,Kansas,"127,473",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+194,Thousand Oaks,California,"126,683",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+195,Olathe,Kansas,"125,872",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+196,Cedar Rapids,Iowa,"126,326",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+197,Waco,Texas,"124,805",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+198,Visalia,California,"124,442",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+199,Elizabeth,New Jersey,"124,969",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+200,Simi Valley,California,"124,237",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+201,Gainesville,Florida,"124,354",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+202,Hartford,Connecticut,"124,775",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+203,Bellevue,Washington,"122,363",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+204,Miramar,Florida,"122,041",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+205,Concord,California,"122,067",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+206,Stamford,Connecticut,"122,643",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+207,Coral Springs,Florida,"121,096",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+208,Charleston,South Carolina,"120,083",33.8724251,-80.8531265,South Carolina,South Carolina,,Bing Maps,state/province
+209,Carrollton,Texas,"119,097",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+210,Lafayette,Louisiana,"120,623",30.9075546,-91.8198318,Louisiana,Louisiana,,Bing Maps,state/province
+211,Roseville,California,"118,788",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+212,Thornton,Colorado,"118,772",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+213,Frisco,Texas,"116,989",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+214,Kent,Washington,"92,411",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+215,Surprise,Arizona,"117,517",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+216,Allentown,Pennsylvania,"118,032",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+217,Beaumont,Texas,"118,296",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+218,Santa Clara,California,"116,468",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+219,Abilene,Texas,"117,063",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+220,Evansville,Indiana,"117,429",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+221,Victorville,California,"115,903",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+222,Independence,Missouri,"116,830",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+223,Denton,Texas,"113,383",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+224,Springfield,Illinois,"116,250",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+225,Vallejo,California,"115,942",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+226,Athens-Clarke County unified government,Georgia,"115,452",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+227,Provo,Utah,"112,488",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+228,Peoria,Illinois,"115,007",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+229,Ann Arbor,Michigan,"113,934",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+230,Lansing,Michigan,"114,297",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+231,El Monte,California,"113,475",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+232,Midland,Texas,"111,147",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+233,Berkeley,California,"112,580",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+234,Norman,Oklahoma,"110,925",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+235,Downey,California,"111,772",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+236,Costa Mesa,California,"109,960",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+237,Murfreesboro,Tennessee,"108,755",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+238,Inglewood,California,"109,673",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+239,Columbia,Missouri,"108,500",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+240,Waterbury,Connecticut,"110,366",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+241,Manchester,New Hampshire,"109,565",43.6843224,-71.5737991,New Hampshire,New Hampshire,,Bing Maps,state/province
+242,Miami Gardens,Florida,"107,167",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+243,Elgin,Illinois,"108,188",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+244,Wilmington,North Carolina,"106,476",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+245,Westminster,Colorado,"106,114",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+246,Rochester,Minnesota,"106,769",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+247,Clearwater,Florida,"107,685",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+248,Lowell,Massachusetts,"106,519",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+249,Pueblo,Colorado,"106,595",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+250,Arvada,Colorado,"106,433",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+251,San Buenaventura (Ventura),California,"106,433",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+252,Gresham,Oregon,"105,594",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+253,Fargo,North Dakota,"105,549",47.4462814,-100.4693985,North Dakota,North Dakota,,Bing Maps,state/province
+254,Carlsbad,California,"105,328",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+255,West Covina,California,"106,098",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+256,Norwalk,California,"105,549",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+257,Fairfield,California,"105,321",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+258,Cambridge,Massachusetts,"105,162",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+259,Murrieta,California,"103,466",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+260,Green Bay,Wisconsin,"104,057",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+261,High Point,North Carolina,"104,371",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+262,West Jordan,Utah,"103,712",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+263,Billings,Montana,"104,170",47.0334816,-109.6450806,Montana,Montana,,Bing Maps,state/province
+264,Richmond,California,"103,701",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+265,Round Rock,Texas,"99,887",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+266,Everett,Washington,"103,019",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+267,Burbank,California,"103,340",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+268,Antioch,California,"102,372",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+269,Wichita Falls,Texas,"104,553",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+270,Palm Bay,Florida,"103,190",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+271,Centennial,Colorado,"100,377",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+272,Temecula,California,"100,097",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+273,Daly City,California,"101,123",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+274,Odessa,Texas,"99,940",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+275,Erie,Pennsylvania,"101,786",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+276,Richardson,Texas,"99,223",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+277,Pompano Beach,Florida,"99,845",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+278,Flint,Michigan,"102,434",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+279,South Bend,Indiana,"101,168",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+280,West Palm Beach,Florida,"99,919",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+281,El Cajon,California,"99,478",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+282,Davenport,Iowa,"99,685",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+283,Rialto,California,"99,171",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+284,Santa Maria,California,"99,553",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+285,Broken Arrow,Oklahoma,"98,850",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+286,Kenosha,Wisconsin,"99,218",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+287,North Charleston,South Carolina,"97,471",33.8724251,-80.8531265,South Carolina,South Carolina,,Bing Maps,state/province
+288,Las Cruces,New Mexico,"97,618",34.4216003,-106.110939,New Mexico,New Mexico,,Bing Maps,state/province
+289,Boulder,Colorado,"97,385",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+290,Lewisville,Texas,"95,290",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+291,Lakeland,Florida,"97,422",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+292,Tyler,Texas,"96,900",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+293,San Mateo,California,"97,207",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+294,Lawton,Oklahoma,"96,867",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+295,Albany,New York,"97,856",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+296,Compton,California,"96,455",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+297,Dearborn,Michigan,"98,153",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+298,Clovis,California,"95,631",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+299,Sandy Springs,Georgia,"93,853",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+300,Roanoke,Virginia,"97,032",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+301,Livonia,Michigan,"96,942",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+302,Portsmouth,Virginia,"95,535",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+303,Vista,California,"93,834",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+304,New Bedford,Massachusetts,"95,072",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+305,College Station,Texas,"93,857",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+306,South Gate,California,"94,396",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+307,Greeley,Colorado,"92,889",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+308,Mission Viejo,California,"93,305",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+309,San Angelo,Texas,"93,200",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+310,Yuma,Arizona,"93,064",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+311,Brockton,Massachusetts,"93,810",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+312,Davie town,Florida,"91,992",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+313,Hillsboro,Oregon,"91,611",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+314,Pearland,Texas,"91,252",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+315,Vacaville,California,"92,428",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+316,Quincy,Massachusetts,"92,271",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+317,Renton,Washington,"90,927",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+318,Yakima,Washington,"91,067",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+319,Carson,California,"91,714",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+320,Macon,Georgia,"91,351",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+321,Lee's Summit,Missouri,"91,364",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+322,Beaverton,Oregon,"89,803",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+323,Tuscaloosa,Alabama,"90,468",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+324,Hesperia,California,"90,173",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+325,Sparks,Nevada,"90,264",39.358387,-116.6546555,Nevada,Nevada,,Bing Maps,state/province
+326,Roswell,Georgia,"88,346",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+327,Federal Way,Washington,"89,306",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+328,Westminster,California,"89,701",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+329,Lynn,Massachusetts,"90,329",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+330,Orem,Utah,"88,328",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+331,Santa Monica,California,"89,736",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+332,Spokane Valley,Washington,"89,755",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+333,Redding,California,"89,861",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+334,Miami Beach,Florida,"87,779",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+335,Waukegan,Illinois,"89,078",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+336,Rio Rancho,New Mexico,"87,521",34.4216003,-106.110939,New Mexico,New Mexico,,Bing Maps,state/province
+337,Sandy,Utah,"87,461",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+338,Santa Barbara,California,"88,410",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+339,Fall River,Massachusetts,"88,857",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+340,Lawrence,Kansas,"87,643",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+341,Reading,Pennsylvania,"88,082",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+342,Longmont,Colorado,"86,270",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+343,Allen,Texas,"84,246",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+344,Fort Smith,Arkansas,"86,209",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+345,Nashua,New Hampshire,"86,494",43.6843224,-71.5737991,New Hampshire,New Hampshire,,Bing Maps,state/province
+346,Plantation,Florida,"84,955",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+347,Newport Beach,California,"85,186",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+348,Norwalk,Connecticut,"85,603",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+349,Chico,California,"86,187",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+350,Duluth,Minnesota,"86,265",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+351,San Leandro,California,"84,950",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+352,Greenville,North Carolina,"84,554",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+353,Sunrise,Florida,"84,439",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+354,Newton,Massachusetts,"85,146",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+355,Whittier,California,"85,331",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+356,Boca Raton,Florida,"84,392",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+357,Deltona,Florida,"85,182",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+358,San Marcos,California,"83,781",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+359,Suffolk,Virginia,"84,585",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+360,Hawthorne,California,"84,293",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+361,Trenton,New Jersey,"84,913",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+362,League City,Texas,"83,560",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+363,Asheville,North Carolina,"83,393",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+364,Citrus Heights,California,"83,301",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+365,Clifton,New Jersey,"84,136",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+366,Tracy,California,"82,922",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+367,Cicero town,Illinois,"83,891",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+368,Bloomington,Minnesota,"82,893",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+369,Ogden,Utah,"82,825",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+370,Alhambra,California,"83,089",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+371,Westland,Michigan,"84,094",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+372,Sioux City,Iowa,"82,684",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+373,Edmond,Oklahoma,"81,405",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+374,Nampa,Idaho,"81,557",44.3890343,-114.6594162,Idaho,Idaho,,Bing Maps,state/province
+375,Warwick,Rhode Island,"82,672",41.4887123,-71.4543228,Rhode Island,Rhode Island,,Bing Maps,state/province
+376,Livermore,California,"80,968",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+377,Hoover,Alabama,"81,619",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+378,Bellingham,Washington,"80,885",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+379,Buena Park,California,"80,530",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+380,Sugar Land,Texas,"78,817",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+381,Danbury,Connecticut,"80,893",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+382,Carmel,Indiana,"79,191",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+383,Troy,Michigan,"80,980",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+384,Bloomington,Indiana,"80,405",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+385,Longview,Texas,"80,455",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+386,Champaign,Illinois,"81,055",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+387,Parma,Ohio,"81,601",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+388,Hammond,Indiana,"80,830",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+389,Lakewood,California,"80,048",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+390,Concord,North Carolina,"79,066",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+391,O'Fallon,Missouri,"79,329",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+392,Hemet,California,"78,657",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+393,Cranston,Rhode Island,"80,387",41.4887123,-71.4543228,Rhode Island,Rhode Island,,Bing Maps,state/province
+394,Farmington Hills,Michigan,"79,740",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+395,Merced,California,"78,958",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+396,Gary,Indiana,"80,294",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+397,Mission,Texas,"77,058",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+398,Menifee,California,"77,519",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+399,Johns Creek,Georgia,"76,728",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+400,Edinburg,Texas,"77,100",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+401,Fishers town,Indiana,"76,794",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+402,Chino,California,"77,983",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+403,Racine,Wisconsin,"78,860",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+404,Lake Forest,California,"77,264",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+405,Bend,Oregon,"76,639",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+406,Napa,California,"76,915",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+407,Indio,California,"76,036",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+408,Redwood City,California,"76,815",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+409,Largo,Florida,"77,648",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+410,Albany,Georgia,"77,434",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+411,New Rochelle,New York,"77,062",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+412,Avondale,Arizona,"76,238",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+413,Bryan,Texas,"76,201",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+414,Camden,New Jersey,"77,344",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+415,St. Joseph,Missouri,"76,780",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+416,Bellflower,California,"76,616",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+417,Bloomington,Illinois,"76,610",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+418,Lawrence,Massachusetts,"76,377",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+419,Brooklyn Park,Minnesota,"75,781",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+420,Meridian,Idaho,"75,092",44.3890343,-114.6594162,Idaho,Idaho,,Bing Maps,state/province
+421,Tustin,California,"75,540",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+422,Somerville,Massachusetts,"75,754",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+423,Lynchburg,Virginia,"75,568",37.5088043,-78.6515427,Virginia,Virginia,,Bing Maps,state/province
+424,Palm Coast,Florida,"75,180",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+425,Deerfield Beach,Florida,"75,018",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+426,Kennewick,Washington,"73,917",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+427,Decatur,Illinois,"76,122",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+428,Melbourne,Florida,"76,068",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+429,Scranton,Pennsylvania,"76,089",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+430,Baldwin Park,California,"75,390",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+431,Chino Hills,California,"74,799",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+432,Medford,Oregon,"74,907",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+433,Arlington Heights village,Illinois,"75,101",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+434,Bethlehem,Pennsylvania,"74,982",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+435,Mountain View,California,"74,066",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+436,Fayetteville,Arkansas,"73,580",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+437,Upland,California,"73,732",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+438,Evanston,Illinois,"74,486",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+439,Alameda,California,"73,812",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+440,St. George,Utah,"72,897",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+441,Kalamazoo,Michigan,"74,262",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+442,Schaumburg village,Illinois,"74,227",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+443,Bolingbrook village,Illinois,"73,366",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+444,San Ramon,California,"72,148",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+445,Baytown,Texas,"71,802",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+446,New Britain,Connecticut,"73,206",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+447,Appleton,Wisconsin,"72,623",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+448,Folsom,California,"72,203",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+449,Canton,Ohio,"73,007",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+450,Wyoming,Michigan,"72,125",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+451,Pharr,Texas,"70,400",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+452,Lake Charles,Louisiana,"71,993",30.9075546,-91.8198318,Louisiana,Louisiana,,Bing Maps,state/province
+453,Southfield,Michigan,"71,739",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+454,Gastonia,North Carolina,"71,741",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+455,Plymouth,Minnesota,"70,576",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+456,Auburn,Washington,"70,180",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+457,Rochester Hills,Michigan,"70,995",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+458,Springdale,Arkansas,"69,797",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+459,Wilmington,Delaware,"70,851",38.9843407,-75.4430084,Delaware,Delaware,,Bing Maps,state/province
+460,Pleasanton,California,"70,285",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+461,Pawtucket,Rhode Island,"71,148",41.4887123,-71.4543228,Rhode Island,Rhode Island,,Bing Maps,state/province
+462,Waukesha,Wisconsin,"70,718",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+463,Jacksonville,North Carolina,"70,145",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+464,Union City,California,"69,516",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+465,Lynwood,California,"69,772",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+466,Apple Valley town,California,"69,135",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+467,Muncie,Indiana,"70,085",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+468,Perris,California,"68,386",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+469,Passaic,New Jersey,"69,781",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+470,Missouri City,Texas,"67,358",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+471,Redlands,California,"68,747",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+472,Mount Pleasant town,South Carolina,"67,843",33.8724251,-80.8531265,South Carolina,South Carolina,,Bing Maps,state/province
+473,Gulfport,Mississippi,"67,793",32.7113609,-89.6544571,Mississippi,Mississippi,,Bing Maps,state/province
+474,Rapid City,South Dakota,"67,956",44.4361343,-100.2305298,South Dakota,South Dakota,,Bing Maps,state/province
+475,Turlock,California,"68,549",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+476,Boynton Beach,Florida,"68,217",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+477,Iowa City,Iowa,"67,862",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+478,Palatine village,Illinois,"68,557",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+479,Waterloo,Iowa,"68,406",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+480,Santa Fe,New Mexico,"67,947",34.4216003,-106.110939,New Mexico,New Mexico,,Bing Maps,state/province
+481,Jonesboro,Arkansas,"67,263",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+482,Warner Robins,Georgia,"66,588",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+483,Layton,Utah,"67,311",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+484,Manteca,California,"67,096",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+485,Loveland,Colorado,"66,859",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+486,Lauderhill,Florida,"66,887",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+487,Lafayette,Indiana,"67,140",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+488,Milpitas,California,"66,790",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+489,Mount Vernon,New York,"67,292",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+490,Rock Hill,South Carolina,"66,154",33.8724251,-80.8531265,South Carolina,South Carolina,,Bing Maps,state/province
+491,Missoula,Montana,"66,788",47.0334816,-109.6450806,Montana,Montana,,Bing Maps,state/province
+492,Redondo Beach,California,"66,748",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+493,Temple,Texas,"66,102",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+494,Union City,New Jersey,"66,455",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+495,Flower Mound town,Texas,"64,669",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+496,Kenner,Louisiana,"66,702",30.9075546,-91.8198318,Louisiana,Louisiana,,Bing Maps,state/province
+497,Eau Claire,Wisconsin,"65,883",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+498,St. Charles,Missouri,"65,794",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+499,Youngstown,Ohio,"66,982",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+500,Weston,Florida,"65,333",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+501,Portland,Maine,"66,194",45.2746925,-69.1981201,Maine,Maine,,Bing Maps,state/province
+502,Oshkosh,Wisconsin,"66,083",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+503,Goodyear,Arizona,"65,275",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+504,Schenectady,New York,"66,135",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+505.5,St. Cloud,Minnesota,"65,842",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+505.5,Frederick,Maryland,"65,239",38.9455986,-76.6833878,Maryland,Maryland,,Bing Maps,state/province
+507,Harlingen,Texas,"64,849",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+508,Davis,California,"65,622",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+509,Dothan,Alabama,"65,496",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+510,Flagstaff,Arizona,"65,870",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+511,Camarillo,California,"65,201",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+512,Rancho Cordova,California,"64,776",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+513,Palo Alto,California,"64,403",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+514,Yorba Linda,California,"64,234",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+515,Walnut Creek,California,"64,173",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+516,Jackson,Tennessee,"65,211",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+517,Skokie village,Illinois,"64,784",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+518,Yuba City,California,"64,925",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+519,North Richland Hills,Texas,"63,343",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+520,Eagan,Minnesota,"64,206",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+521,San Clemente,California,"63,522",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+522,South San Francisco,California,"63,632",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+523,East Orange,New Jersey,"64,270",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+524,Franklin,Tennessee,"62,487",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+525,Pittsburg,California,"63,264",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+526,Lorain,Ohio,"64,097",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+527,Laguna Niguel,California,"62,979",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+528,Johnson City,Tennessee,"63,152",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+529,Bayonne,New Jersey,"63,024",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+530,Fort Myers,Florida,"62,298",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+531,Janesville,Wisconsin,"63,575",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+532,Pico Rivera,California,"62,942",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+533,Shawnee,Kansas,"62,209",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+534,Pasco,Washington,"59,781",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+535,Lodi,California,"62,134",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+536,Victoria,Texas,"62,592",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+537,Montebello,California,"62,500",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+538,North Little Rock,Arkansas,"62,304",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+539,Hamilton,Ohio,"62,477",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+540,Woodbury,Minnesota,"61,961",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+541,Bossier City,Louisiana,"61,315",30.9075546,-91.8198318,Louisiana,Louisiana,,Bing Maps,state/province
+542,Bismarck,North Dakota,"61,272",47.4462814,-100.4693985,North Dakota,North Dakota,,Bing Maps,state/province
+543,Taylor,Michigan,"63,131",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+544,Council Bluffs,Iowa,"62,230",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+545,Maple Grove,Minnesota,"61,567",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+546,Rockville,Maryland,"61,209",38.9455986,-76.6833878,Maryland,Maryland,,Bing Maps,state/province
+547,Madera,California,"61,416",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+548,Utica,New York,"62,235",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+549,Homestead,Florida,"60,512",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+550,Coon Rapids,Minnesota,"61,476",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+551,Eden Prairie,Minnesota,"60,797",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+552,Tamarac,Florida,"60,427",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+553,Haverhill,Massachusetts,"60,879",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+554,Kissimmee,Florida,"59,682",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+555,Delray Beach,Florida,"60,522",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+556,Waltham,Massachusetts,"60,632",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+557,La Habra,California,"60,239",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+558,Gaithersburg,Maryland,"59,933",38.9455986,-76.6833878,Maryland,Maryland,,Bing Maps,state/province
+559,Daytona Beach,Florida,"61,005",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+560,Terre Haute,Indiana,"60,785",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+561,Vineland,New Jersey,"60,724",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+562,Burnsville,Minnesota,"60,306",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+563,Marysville,Washington,"60,020",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+564,Meriden,Connecticut,"60,868",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+565,West Allis,Wisconsin,"60,411",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+566,Monterey Park,California,"60,269",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+567,Bristol,Connecticut,"60,477",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+568,Conway,Arkansas,"58,908",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+569,Encinitas,California,"59,518",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+570,Greenville,South Carolina,"58,409",33.8724251,-80.8531265,South Carolina,South Carolina,,Bing Maps,state/province
+571,Santa Cruz,California,"59,946",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+572,Springfield,Ohio,"60,608",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+573,Tulare,California,"59,278",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+574,North Miami,Florida,"58,786",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+575,Cheyenne,Wyoming,"59,466",42.9995766,-107.5515213,Wyoming,Wyoming,,Bing Maps,state/province
+576,Malden,Massachusetts,"59,450",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+577,Lancaster,Pennsylvania,"59,322",40.8965111,-77.8387527,Pennsylvania,Pennsylvania,,Bing Maps,state/province
+578,Pontiac,Michigan,"59,515",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+579,St. Clair Shores,Michigan,"59,715",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+580,Taylorsville,Utah,"58,652",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+581,Springfield,Oregon,"59,403",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+582,New Braunfels,Texas,"57,740",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+583,Alpharetta,Georgia,"57,551",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+584,National City,California,"58,582",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+585,Gardena,California,"58,829",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+586,Cupertino,California,"58,302",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+587,Ames,Iowa,"58,965",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+588,Conroe,Texas,"56,207",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+589,Great Falls,Montana,"58,505",47.0334816,-109.6450806,Montana,Montana,,Bing Maps,state/province
+590,Bowling Green,Kentucky,"58,067",37.5272331,-85.2876205,Kentucky,Kentucky,,Bing Maps,state/province
+591,Lakewood,Washington,"58,163",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+592,Grand Junction,Colorado,"58,566",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+593,Des Plaines,Illinois,"58,364",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+594,Huntington Park,California,"58,114",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+595,Petaluma,California,"57,941",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+596,Rocklin,California,"56,974",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+597,San Rafael,California,"57,713",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+598,Dubuque,Iowa,"57,637",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+599,Chapel Hill town,North Carolina,"57,233",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+600,West Des Moines,Iowa,"56,609",41.6578217,-91.5265274,Iowa,"Iowa City, IA",,Bing Maps,city/town
+601,La Mesa,California,"57,065",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+602,North Port,Florida,"57,357",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+603,Idaho Falls,Idaho,"56,813",44.3890343,-114.6594162,Idaho,Idaho,,Bing Maps,state/province
+604,Mansfield,Texas,"56,368",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+605,Royal Oak,Michigan,"57,236",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+606,Owensboro,Kentucky,"57,265",37.5272331,-85.2876205,Kentucky,Kentucky,,Bing Maps,state/province
+607,Blaine,Minnesota,"57,186",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+608,Rogers,Arkansas,"55,964",34.9066925,-92.4387436,Arkansas,Arkansas,,Bing Maps,state/province
+609,Rowlett,Texas,"56,199",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+610,Rocky Mount,North Carolina,"57,477",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+611,Marietta,Georgia,"56,579",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+612,Broomfield,Colorado,"55,889",39.0010986,-105.55159,Colorado,Colorado,,Bing Maps,state/province
+613,White Plains,New York,"56,853",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+614,Dearborn Heights,Michigan,"57,774",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+615,Wellington village,Florida,"56,508",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+616,Orland Park village,Illinois,"56,767",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+617,Tinley Park village,Illinois,"56,703",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+618,Oak Lawn village,Illinois,"56,690",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+619,Berwyn,Illinois,"56,657",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+620,Arcadia,California,"56,364",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+621,Medford,Massachusetts,"56,173",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+622,Port Orange,Florida,"56,048",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+623,Ocala,Florida,"56,315",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+624,Lakeville,Minnesota,"55,954",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+625,Kettering,Ohio,"56,163",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+626,Moore,Oklahoma,"55,081",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+627,Fountain Valley,California,"55,313",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+628,Valdosta,Georgia,"54,518",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+629,Casper,Wyoming,"55,316",42.9995766,-107.5515213,Wyoming,Wyoming,,Bing Maps,state/province
+630,Anderson,Indiana,"56,129",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+631,Diamond Bar,California,"55,544",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+632,Taunton,Massachusetts,"55,874",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+633,Jupiter town,Florida,"55,156",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+634,Decatur,Alabama,"55,683",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+635,Woodland,California,"55,468",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+636,Novi,Michigan,"55,224",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+637,West Haven,Connecticut,"55,564",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+638,New Brunswick,New Jersey,"55,181",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+639,Carson City,Nevada,"55,274",39.358387,-116.6546555,Nevada,Nevada,,Bing Maps,state/province
+640,Midwest City,Oklahoma,"54,371",35.5853882,-97.5121384,Oklahoma,Oklahoma,,Bing Maps,state/province
+641,Chicopee,Massachusetts,"55,298",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+642,Bowie,Maryland,"54,727",38.9455986,-76.6833878,Maryland,Maryland,,Bing Maps,state/province
+643,Redmond,Washington,"54,144",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+644,Bartlett,Tennessee,"54,613",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+645,Porterville,California,"54,165",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+646,Eastvale,California,(X),37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+647,Pocatello,Idaho,"54,255",44.3890343,-114.6594162,Idaho,Idaho,,Bing Maps,state/province
+648,Corvallis,Oregon,"54,462",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+649,Elyria,Ohio,"54,533",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+650,Auburn,Alabama,"53,380",32.7487068,-86.8505707,Alabama,Alabama,,Bing Maps,state/province
+651,Paramount,California,"54,098",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+652,Mount Prospect village,Illinois,"54,167",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+653,Hanford,California,"53,967",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+654,Margate,Florida,"53,284",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+655,Santee,California,"53,413",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+656,Rosemead,California,"53,764",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+657,Weymouth Town,Massachusetts,"53,743",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+658,Hempstead village,New York,"53,891",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+659,Shoreline,Washington,"53,007",38.8903694,-77.0319595,Washington,"Washington, DC",,Bing Maps,city/town
+660,Port Arthur,Texas,"53,818",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+661,Sanford,Florida,"53,570",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+662,Coconut Creek,Florida,"52,909",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+663,Highland,California,"53,104",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+664,Delano,California,"53,041",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+665,Manhattan,Kansas,"52,281",38.484726,-98.3801727,Kansas,Kansas,,Bing Maps,state/province
+666,Noblesville,Indiana,"51,969",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+667,Lake Elsinore,California,"51,821",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+668,St. Peters,Missouri,"52,575",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+669,Wheaton,Illinois,"52,894",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+670,Colton,California,"52,154",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+671,Lake Havasu City,Arizona,"52,527",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+672,Normal town,Illinois,"52,497",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+673,Blue Springs,Missouri,"52,575",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+674,Grand Forks,North Dakota,"52,838",47.4462814,-100.4693985,North Dakota,North Dakota,,Bing Maps,state/province
+675,Revere,Massachusetts,"51,755",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+676,Novato,California,"51,904",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+677,Euless,Texas,"51,277",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+678,Cathedral City,California,"51,200",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+679,Hendersonville,Tennessee,"51,372",35.8430023,-86.3430481,Tennessee,Tennessee,,Bing Maps,state/province
+680,Sarasota,Florida,"51,917",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+681,Brentwood,California,"51,481",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+682,Pensacola,Florida,"51,923",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+683,Florissant,Missouri,"52,158",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+684,Yucaipa,California,"51,367",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+685,Hoffman Estates village,Illinois,"51,895",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+686,Oak Park village,Illinois,"51,878",40.1228409,-89.143219,Illinois,Illinois,,Bing Maps,state/province
+687,Battle Creek,Michigan,"52,347",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+688,Smyrna,Georgia,"51,271",32.637619,-83.4289627,Georgia,Georgia,,Bing Maps,state/province
+689,Lakewood,Ohio,"52,131",40.410656,-82.7089386,Ohio,Ohio,,Bing Maps,state/province
+690,La Crosse,Wisconsin,"51,320",44.6354256,-89.7189026,Wisconsin,Wisconsin,,Bing Maps,state/province
+691,Peabody,Massachusetts,"51,251",42.125515,-71.4986191,Massachusetts,Massachusetts,,Bing Maps,state/province
+692,Buckeye town,Arizona,"50,876",34.2930069,-111.6639786,Arizona,Arizona,,Bing Maps,state/province
+693,Watsonville,California,"51,199",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+694,Greenwood,Indiana,"49,791",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+695,South Jordan,Utah,"50,418",39.3304787,-111.6814804,Utah,Utah,,Bing Maps,state/province
+696,Elkhart,Indiana,"50,949",39.9198036,-86.2817993,Indiana,Indiana,,Bing Maps,state/province
+697,Bellevue,Nebraska,"50,137",41.5272713,-99.8111038,Nebraska,Nebraska,,Bing Maps,state/province
+698,Placentia,California,"50,533",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+699,Cedar Park,Texas,"48,937",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town
+700,Saginaw,Michigan,"51,508",44.8626175,-85.7351379,Michigan,Michigan,,Bing Maps,state/province
+701,Milford,Connecticut,"51,271",41.5735016,-72.7383041,Connecticut,Connecticut,,Bing Maps,state/province
+702,Charleston,West Virginia,"51,400",38.638382,-80.6165771,West Virginia,West Virginia,,Bing Maps,state/province
+703,Perth Amboy,New Jersey,"50,814",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+704,Burlington,North Carolina,"49,963",35.5147514,-79.1010361,North Carolina,North Carolina,,Bing Maps,state/province
+705,Albany,Oregon,"50,158",43.9452972,-120.5995255,Oregon,Oregon,,Bing Maps,state/province
+706,Joplin,Missouri,"50,150",38.3679657,-92.4778824,Missouri,Missouri,,Bing Maps,state/province
+707,Hoboken,New Jersey,"50,005",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+708.5,Minnetonka,Minnesota,"49,734",46.3505173,-94.1978073,Minnesota,Minnesota,,Bing Maps,state/province
+708.5,Glendora,California,"50,073",37.1519241,-119.6460419,California,California,,Bing Maps,state/province
+710,West New York town,New Jersey,"49,708",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+711,Bradenton,Florida,"49,546",28.4401894,-82.5044403,Florida,Florida,,Bing Maps,state/province
+712,Troy,New York,"50,129",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+713,Niagara Falls,New York,"50,193",40.7820015,-73.8327026,New York,"New York, NY",,Bing Maps,city/town
+714,Plainfield,New Jersey,"49,808",40.0851631,-74.649498,New Jersey,New Jersey,,Bing Maps,state/province
+715,DeSoto,Texas,"49,047",29.7604504,-95.3697815,Texas,"Houston, TX",,Bing Maps,city/town

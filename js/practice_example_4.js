@@ -10,6 +10,10 @@ $(document).ready(function() {
   var width = 960 - margin.left - margin.right;
   var height = 500 - margin.top - margin.bottom;
 
+  d3.select('body')
+    .append('h1')
+    .text('Self-reported primary practice focus of AOA members')
+
   var svg = d3.select('body')
     .append('svg')
     .attr('width', width) 
@@ -54,6 +58,8 @@ $(document).ready(function() {
         specialties[d.maj_prac_focus] = 1; 
       } 
     });
+
+    console.log(specialties);
 
 
     // process cardiology

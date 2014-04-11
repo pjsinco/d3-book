@@ -1,0 +1,4 @@
+General Practice: 56
+Otorhinolaryngology: 38
+Rehabilitation Medicine: 32
+Thoracic Surgery: 6

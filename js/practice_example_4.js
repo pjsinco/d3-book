@@ -1,4 +1,7 @@
-$(document).ready(function() {
+//$(document).ready(function() {
+
+// redraw example:
+// http://www.streamlinedataworks.com/example5.html
 
   var margin = {
     top: 50,
@@ -31,50 +34,44 @@ $(document).ready(function() {
   var color = d3.scale.quantize()
     .range(['rgb(247,251,255)','rgb(222,235,247)','rgb(198,219,239)','rgb(158,202,225)','rgb(107,174,214)','rgb(66,146,198)','rgb(33,113,181)','rgb(8,81,156)','rgb(8,48,107)'])
 
-
-  var familyPrac = {};
   var specialties = {};
-  var cardiology = {};
+  var stateCounts = {};
+  var dataset = [];
+  var selectButton;
+  var states = [];
+    
+  // load up the specialties
+  d3.json('/js/data/specialties.json', function(error, data) {
+    specialties = data;
 
-  d3.csv('/js/data/do-members-in-practice.csv', function(error, data) {
+    var dropdown = d3.select('body').append('select')
+      .attr('name', 'select')
+      .attr('id', 'specialtyDropdown')
 
-    // process family medicine
-    data.forEach(function(d) {
-      if (d.maj_prac_focus.indexOf('Family') == 0) {
-        if (familyPrac[d.full_state]) {
-          familyPrac[d.full_state]++;
-        } else {
-          familyPrac[d.full_state] = 1;
-        }
-      }
-    });
+    console.log(specialties.specialties);
 
+    var options = dropdown.selectAll('option')
+      .data(specialties.specialties)
+      .enter()
+        .append('option')
+        .attr('value', function(d) {
+          return d.cert_board;
+        })
+        .text(function(d) {
+          return d.cert_board;
+        })
 
-    // process specialties
-    data.forEach(function(d) {
-      if (specialties[d.maj_prac_focus]) {
-        specialties[d.maj_prac_focus]++; 
-      } else {
-        specialties[d.maj_prac_focus] = 1; 
-      } 
-    });
+    selectButton = d3.select('body')
+      .append('button', 'select')
+      .attr('name', 'button')
+      .text('Go')
+  });
 
-    console.log(specialties);
+  d3.csv('/js/data/do-members-in-practice-2014-04-11.csv', function(error, data) {
 
-
-    // process cardiology
-    data.forEach(function(d) {
-      if (d.maj_prac_focus === 'Cardiology') {
-        if (cardiology[d.full_state]) {
-          cardiology[d.full_state]++;
-        } else {
-          cardiology[d.full_state] = 1;
-        }
-      }
-    }); 
-
-    color
-      .domain(d3.extent(d3.values(familyPrac)));
+    dataset = data;
+    console.log(dataset);
+  
 
     d3.json('/js/data/us-states.json', function(error, json) {
 
@@ -82,6 +79,7 @@ $(document).ready(function() {
       json.features = json.features.filter(function(f) {
         return f.properties.name !== 'Puerto Rico';
       })
+      // set up 
 
       //merge practice-loc data and geojson
       // loop through for each 
@@ -91,7 +89,7 @@ $(document).ready(function() {
         var dataState = data[i].full_state;
         
         // grab the data
-        var dataValue = familyPrac[dataState];
+        var dataValue = stateCounts[dataState];
 
         // find the corresponding state inside the geojson
         for (var j = 0; j < json.features.length; j++) {
@@ -102,27 +100,83 @@ $(document).ready(function() {
         }
       }
 
-    console.log(json.features[41]);
+    console.log(json.features);
 
-    svg
-      .selectAll('path')
-      .data(json.features)
+    states = svg.selectAll('path')
+      .data(json.features, function(d) {
+        return d.properties.name;
+      })
       .enter()
         .append('path')
-        .attr('d', path)
-        .style('fill', function(d) {
-          
-          if (d.properties.value) {
-            return color(d.properties.value);
-          } else {
-            return '#ccc';
-          }
+        .attr('class', 'state')
+        .attr('id', function(d) {
+          return d.properties.name;
         })
-        .style('stroke', '#ccc')
+        .attr('d', path)
+//        .style('fill', function(d) {
+//          
+//          if (d.properties.value) {
+//            return color(d.properties.value);
+//          } else {
+//            return '#ccc';
+//          }
+//        })
+        .style('stroke', '#aaa')
+
+      selectButton
+        .on('click', function() {
+          // get an array of the option elements
+          var options = document.getElementById('specialtyDropdown').options;
+          // figure out the index of the selected option
+          var selectedIndex = options.selectedIndex;
+          // pass the text value of that to showSpecialty() 
+          showSpecialty(options[selectedIndex].text);
+        });
+
 
   
     });; // end d3.json()
   }); // end d3.csv()
 
+  function showSpecialty(s) {
+    // gather all the pri_cert values for the passed specialty
+    stateCounts = {};
+    var priCert = [];
+    for (var i = 0; i < specialties.specialties.length; i++) {
+      if (specialties.specialties[i].cert_board == s) {
+        priCert = specialties.specialties[i].pri_cert;
+      }
+    }
+    
+    dataset.forEach(function(d) {
+      if (priCert.indexOf(d.maj_prac_focus) == 0) {
+        if (stateCounts[d.full_state]) {
+          stateCounts[d.full_state]++;
+        } else {
+          stateCounts[d.full_state] = 1;
+        }
+      }
+    });
+    
+    color
+      .domain(d3.extent(d3.values(stateCounts)));
+    
+    console.log(d3.entries(stateCounts));
 
-});
+    
+    states
+      .data(d3.entries(stateCounts), function(d) {
+        return d.properties.name;
+      })
+      .enter()
+        .append('path')
+        .style('fill', function(d) {
+          console.log(d);
+          return color(d.value);
+        })
+    
+
+    console.log(states);
+  }
+
+//});

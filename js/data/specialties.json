@@ -1,0 +1,157 @@
+{
+  "specialties": 
+  [
+    {
+      "cert_board": "Anesthesiology",
+      "pri_cert": 
+      [
+        "Anesthesiology"
+      ]
+    },
+    {
+      "cert_board": "Dermatology",
+      "pri_cert": 
+      [
+        "Dermatology"
+      ]
+    },
+    {
+      "cert_board": "Emergency Medicine",
+      "pri_cert": 
+      [
+        "Emergency Medicine"
+      ]
+    },
+    {
+      "cert_board": "Family Physicians",
+      "pri_cert": 
+      [
+        "Family Medicine",
+        "Family Medicine/OMT",
+        "General Practice"
+      ]
+    },
+    {
+      "cert_board": "Internal Medicine",
+      "pri_cert": 
+      [
+        "Internal Medicine"
+      ]
+    },
+    {
+      "cert_board": "Neurology and Psychiatry",
+      "pri_cert": 
+      [
+        "Neurology",
+        "Psychiatry"
+      ]
+    },
+    {
+      "cert_board": "Neuromusculoskeletal Medicine",
+      "pri_cert": 
+      [
+        "Neuromusculoskeletal Med/OMM",
+        "Neuromusculoskeletal Med/OMT",
+        "Spec Prof in Osteo Manip Med"
+      ]
+    },
+    {
+      "cert_board": "Nuclear Medicine",
+      "pri_cert": 
+      [
+        "Nuclear Medicine"
+      ]
+    },
+    {
+      "cert_board": "Obstetrics and Gynecology",
+      "pri_cert": 
+      [
+        "Obstetrics & Gynecology",
+        "Obstetrics & Gynecologic Surg"
+      ]
+    },
+    {
+      "cert_board": "Ophthalmology and Otolaryngology",
+      "pri_cert": 
+      [
+        "Ophthalmology",
+        "Otolaryn & Facial Plastic Surg",
+        "Otolaryngology",
+        "Facial Plastic Surgery",
+        "Otorhinolaryngology"
+      ]
+    },
+    {
+      "cert_board": "Orthopedic Surgery",
+      "pri_cert": 
+      [
+        "Orthopedic Surgery"
+      ]
+    },
+    {
+      "cert_board": "Pathology",
+      "pri_cert": 
+      [
+        "Laboratory Medicine",
+        "Anatomic Pathology",
+        "Anatomic Pathology & Lab Med"
+      ]
+    },
+    {
+      "cert_board": "Pediatrics",
+      "pri_cert": 
+      [
+        "Pediatrics"
+      ]
+    },
+    {
+      "cert_board": "Physical Medicine and Rehabilitation",
+      "pri_cert": 
+      [
+        "Physical Medicine & Rehab",
+        "Rehabilitation Medicine"
+      ]
+    },
+    {
+      "cert_board": "Preventive Medicine",
+      "pri_cert": 
+      [
+        "Preventive Med-Aerospace Med",
+        "Preventive Med-Occupation Med",
+        "Preventive Med-Public Health",
+        "Preventive-Occupation-Envir Me"
+      ]
+    },
+    {
+      "cert_board": "Proctology",
+      "pri_cert": 
+      [
+        "Proctology"
+      ]
+    },
+    {
+      "cert_board": "Radiology",
+      "pri_cert": 
+      [
+        "Radiology",
+        "Diagnostic Radiology",
+        "Diagnostic Roentgenology",
+        "Radiation Oncology",
+        "Roentgenology"
+      ]
+    },
+    {
+      "cert_board": "Surgery",
+      "pri_cert": 
+      [
+        "Surgery-General",
+        "Neurological Surgery",
+        "Plastic & Reconstructive Surg",
+        "Thoracic Cardiovascular Surg",
+        "General Vascular Surgery",
+        "Urological Surgery",
+        "Thoracic Surgery"
+      ]
+    }
+  ]
+}

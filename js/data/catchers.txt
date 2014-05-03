@@ -1,0 +1,69 @@
+PLAYER         TEAM     PO
+Arencibia,J    TEX      93
+Avila,A        DET      124
+Buck,J         SEA      33
+Castro,J       HOU      152
+Cervelli,F     NYY      24
+Chirinos,R     TEX      113
+Clevenger,S    BAL      40
+Conger,H       LAA      91
+Corporan,C     HOU      70
+Flowers,T      CWS      153
+Gomes,Y        CLE      209
+Hanigan,R      TB       139
+Hayes,B        KC       14
+Holaday,B      DET      58
+Iannetta,C     LAA      153
+Jaso,J         OAK      125
+Kratz,E        TOR      20
+Martinez,V     DET      23
+McCann,B       NYY      192
+Molina,J       TB       97
+Murphy,J       NYY      36
+Navarro,D      TOR      166
+Nieto,A        CWS      44
+Norris,D       OAK      116
+Perez,S        KC       211
+Pierzynski,A   BOS      171
+Pinto,J        MIN      60
+Romine,A       NYY      3
+Ross,D         BOS      72
+Santana,C      CLE      47
+Suzuki,K       MIN      117
+Thole,J        TOR      57
+Wieters,M      BAL      160
+Zunino,M       SEA      193
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

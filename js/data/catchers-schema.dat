@@ -1,0 +1,4 @@
+column,start,length
+PLAYER,0,15
+TEAM,15,9
+PO,24,3

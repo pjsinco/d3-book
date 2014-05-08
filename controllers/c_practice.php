@@ -14,7 +14,8 @@ class practice_controller extends base_controller {
       //'http://d3js.org/d3.v3.min.js',
       '/misc/d3-book-master/d3/d3.v3.js',
       '/misc/topojson.v1.min.js',
-      '/js/modernizr.custom.97318.js',
+      '/libs/modernizr.custom.97318.js',
+      '/libs/underscore.js',
       '/css/main.css',
       '/css/practice_example_' . $example . '.css'
     );
@@ -22,7 +23,7 @@ class practice_controller extends base_controller {
       Utils::load_client_files($client_files_head);
 
     $client_files_body = Array(
-      '/js/jquery-1.9.1.js',
+      '/libs/jquery-1.9.1.js',
       '/js/practice_example_' . $example . '.js'
     );
     $this->template->client_files_body =

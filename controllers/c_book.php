@@ -14,14 +14,14 @@ class book_controller extends base_controller {
     $client_files_head = Array(
       //'http://d3js.org/d3.v3.min.js',
       '/misc/d3-book-master/d3/d3.v3.js',
-      '/js/modernizr.custom.97318.js',
+      '/libs/modernizr.custom.97318.js',
       '/css/main.css'
     );
     $this->template->client_files_head =
       Utils::load_client_files($client_files_head);
 
     $client_files_body = Array(
-      '/js/jquery-1.9.1.js',
+      '/libs/jquery-1.9.1.js',
       '/js/book_chapter_' . $chapter . '_' . $example . '.js'
     );
     $this->template->client_files_body =

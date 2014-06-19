@@ -1,2 +1,3 @@
 *.swp
 do-members*
+libs/node_modules/*

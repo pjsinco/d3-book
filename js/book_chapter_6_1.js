@@ -1,4 +1,4 @@
-var w = 500;
+var w = 800;
 var h = 200;
 var barPadding = 1;
 
@@ -22,6 +22,7 @@ d3.csv('/js/data/mlb-hitting.csv', function(error, data) {
 });
 
 function generateVis(data) {
+  console.log(data);
 
   svg
     .selectAll('rect')
@@ -32,7 +33,7 @@ function generateVis(data) {
         //return (w / data.length) - 1;
       //})
       .attr('x', function(d, i) {
-        return i * (w / data.length);
+        return positionX(data, i);
       })
       .attr('y', function(d) {
         return h - (d.lob / 2);
@@ -43,7 +44,59 @@ function generateVis(data) {
       })
       .style('fill', function(d) {
         return 'rgb(0, 0, ' + d.lob + ')';
-      })
-  
+      });
 
+  svg
+    .selectAll('text')
+    .data(data)
+    .enter()
+      .append('text')
+      .text(function(d) {
+        return d.lob;
+      })
+        .attr('x', function(d, i) {
+          return positionX(data, i);
+        })
+        .attr('y', function(d) {
+          return positionY(d.lob);
+        })
+        .attr('fill', '#fff')
+        .attr('font-family', 'sans-serif')
+        .attr('font-size', 10)
+        .attr('text-anchor', 'middle')
+
+  svg
+    .selectAll('team')
+    .data(data)
+    .enter()
+      .append('text')
+      .attr('class', 'team')
+      .text(function(d) {
+        return d.team;       
+      })
+        .attr('x', function(d, i) {
+          return positionX(data, i);
+        })
+        .attr('y', function(d) {
+          return h;
+        })
+        .attr('fill', '#fff')
+        .attr('font-family', 'sans-serif')
+        .attr('font-size', 10)
+        .attr('text-anchor', 'middle')
+        
+
+}
+
+/*
+ * Helper functions
+ *
+ */
+function positionX(dataset, index) {
+  return index * (w / dataset.length) + 
+    (w / dataset.length - barPadding) / 2;
+}
+
+function positionY(datum) {
+  return h - (datum / 2) + 14;
 }

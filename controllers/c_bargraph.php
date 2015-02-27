@@ -19,7 +19,7 @@ class bargraph_controller extends base_controller {
   
     $client_files_head = Array(
       //'http://d3js.org/d3.v3.min.js',
-      '/misc/d3-book-master/d3/d3.v3.js',
+      '/libs/d3.min.js',
       '/libs/modernizr.custom.97318.js',
       '/css/bargraph_example_' . $example . '.css'
     );

@@ -34,7 +34,7 @@ var color = d3.scale.ordinal()
 d3.json('/js/data/weather.json', function(error, json) {
 
   dataset = json;
-  console.log(dataset.length);
+  console.log(dataset);
 
   xScale.domain(d3.extent(dataset, function(d) {
     return d.temperature;
@@ -76,39 +76,51 @@ d3.json('/js/data/weather.json', function(error, json) {
         var filteredData = dataset.filter(function (d) {
           return d['location']['country'] == 'US';
         })
-      
-        rect
-          .data(filteredData)
-          .enter()
-          .append('rect')
-          .attr('height', function(d, i) {
-            return yScale.rangeBand()
-          })
-          .attr('x', 50)
-          .attr('y', function(d, i) {
-            return yScale(i);
-          })
-          .attr('fill', function(d) {
-            return color(d);
-          })
-
-        rect
-          .transition()
-          .duration(1000)
-          .attr('width', function(d) {
-            return width - xScale(d.temperature);
-          })
-
-        rect
-          .exit()
-          .remove();
-
-        
-              
+        update(filteredData);
       } else {
-
+        update(dataset);
       }
     });
+
+  function update(newData) {
+
+    var bars = g.selectAll('rect')
+      .data(newData)
+
+    // Update
+    bars
+      .transition()
+      .duration(500)
+      .attr('width', function(d) {
+        return width - xScale(d.temperature);
+      });
+
+    // Enter
+    bars
+      .enter()
+      .append('rect')
+      .attr('height', function(d, i) {
+        return yScale.rangeBand()
+      })
+      .attr('width', function(d) {
+        return width - xScale(d.temperature);
+      })
+      .attr('x', 50)
+      .attr('y', function(d, i) {
+        return yScale(i);
+      })
+      .attr('fill', function(d) {
+        return color(d);
+      })
+
+    // Exit
+    bars
+      .exit()
+      .remove()
+
+    
+
+  } // update
     
 
 });

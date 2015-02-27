@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  color: #888;
+}
+
+.viz {
+  max-width: 50em;
+  margin: 0 auto;
+  background: aliceblue;
+}

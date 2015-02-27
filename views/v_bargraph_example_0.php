@@ -1,6 +1,9 @@
-<p class='click' id="click">
-  Click me.
+<p class='click' id="randomize">
+  Randomize values.
 </p>
-<p class='click' id="click-too">
-  Click me too.
+<p class='click' id="add-bar">
+  Add a bar.
+</p>
+<p class='click' id="remove-bar">
+  Remove a bar.
 </p>

@@ -14,7 +14,8 @@ class class_controller extends base_controller {
   
     $client_files_head = Array(
       //'http://d3js.org/d3.v3.min.js',
-      '/misc/d3-book-master/d3/d3.v3.js',
+      //'/misc/d3-book-master/d3/d3.v3.js',
+      '/libs/d3.min.js',
       //'/js/modernizr.custom.97318.js',
       '/css/class_lab_' . $lab_number . '.css',
       '/css/main.css'

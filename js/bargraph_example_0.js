@@ -68,7 +68,7 @@ var labels = g.selectAll('text')
   .attr('font-family', 'sans-serif')
   .attr('font-weight', '200')
 
-d3.select('#click-too')
+d3.select('#add-bar')
   .on('click', function() {
 
   console.log('click-too');
@@ -81,6 +81,7 @@ d3.select('#click-too')
   yScale.domain(d3.extent(dataset));
   xScale.domain(d3.range(dataset.length))
 
+  // Select
   var bars = g.selectAll('rect')
     .data(dataset)
   
@@ -116,13 +117,15 @@ d3.select('#click-too')
     })
 
 
-  labels
+  // Select
+  var labelNums = g.selectAll('text')
     .data(dataset)
+
+  // Enter
+  labelNums
     .enter()
     .append('text')
-    .attr('x', function(d, i) {
-      return xScale(i) + (xScale.rangeBand() / 2);
-    })
+    .attr('x', width)
     .attr('y', function(d, i) {
       return height - yScale(d) + 20;
     })
@@ -134,13 +137,24 @@ d3.select('#click-too')
     .attr('font-family', 'sans-serif')
     .attr('font-weight', '200')
   
-  
+  // Update 
+  labelNums
+    .transition()
+    .duration(500)
+    .attr('x', function(d, i) {
+      return xScale(i) + (xScale.rangeBand() / 2);
+    })
+    .attr('y', function(d, i) {
+      return height - yScale(d) + 20;
+    })
+    .text(function(d) {
+      return d;
+    })
 
 });
 
-d3.select('#click')
+d3.select('#randomize')
   .on('click', function() {
-
     console.log('clicked');
 
     // new values for the dataset
@@ -188,7 +202,40 @@ d3.select('#click')
       .text(function(d) {
         return d;
       })
-
   });
+
+d3.select('#remove-bar')
+  .on('click', function() {
+
+    dataset.shift();
+    console.log(dataset);
+
+    xScale.domain(d3.range(dataset.length));
+    yScale.domain(d3.extent(dataset));
+
+    bars = g.selectAll('rect')
+      .data(dataset)
+      
+    bars
+      .transition()
+      .delay(function(d, i) {
+        return (i / dataset.length) * 1000;
+      })
+      .duration(500)
+      .attr('width', function() {
+        return xScale.rangeBand();
+      })
+      .attr('x', function(d, i) {
+        return xScale(i);
+      })
+
+    bars
+      .exit()
+      .transition()
+      .delay(500)
+      .duration(500)
+      .attr('x', width)
+      .remove();
+});
   
 

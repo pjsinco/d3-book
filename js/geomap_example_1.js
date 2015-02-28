@@ -87,7 +87,6 @@ d3.csv('/js/data/state-change.csv', function(csv) {
   d3.json('/js/data/us-named.json', function(error, json) {
   
     var usMap = topojson.feature(json, json.objects.states);
-
     var csvLen = csv.length;
 
     // Merge the data from our CSV with our map
@@ -125,7 +124,6 @@ d3.csv('/js/data/state-change.csv', function(csv) {
 }); // d3.csv
 
 function stateMouseover(d) {
-
   focus
     .select('text')
     .remove();
@@ -137,5 +135,4 @@ function stateMouseover(d) {
     .text(function() {
       return d.properties.name;
     })
-  
 }
